@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/AnthonyCapirchio/confs.tech-api.svg?branch=master)](https://travis-ci.org/AnthonyCapirchio/confs.tech-api)
