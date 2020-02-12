@@ -37,7 +37,7 @@ type LocalFileImporter struct {
 	Years    []string
 }
 
-func (local *LocalFileImporter) loadFile(path string, conferences chan conference.Conference, wg *sync.WaitGroup) {
+func loadFile(path string, conferences chan conference.Conference, wg *sync.WaitGroup) {
 	defer wg.Done()
 
 	if !strings.HasSuffix(path, ".json") {
@@ -50,6 +50,10 @@ func (local *LocalFileImporter) loadFile(path string, conferences chan conferenc
 		return
 	}
 
+	HandleFileContent(f, path, conferences)
+}
+
+func HandleFileContent(f []byte, path string, conferences chan conference.Conference) {
 	data := []ConferenceFileLine{}
 
 	_ = json.Unmarshal([]byte(f), &data)
@@ -58,7 +62,6 @@ func (local *LocalFileImporter) loadFile(path string, conferences chan conferenc
 	layout := "2006-01-02"
 
 	for _, entry := range data {
-
 		startDate, _ := time.Parse(layout, entry.StartDate)
 		endDate, _ := time.Parse(layout, entry.EndDate)
 		cfpEndDate, _ := time.Parse(layout, entry.CfpEndDate)
@@ -80,17 +83,16 @@ func (local *LocalFileImporter) loadFile(path string, conferences chan conferenc
 	}
 }
 
-func (local *LocalFileImporter) Import() (*conference.Store, error) {
+func (l *LocalFileImporter) LoadFiles() chan conference.Conference {
 	var wg sync.WaitGroup
-	store := &conference.Store{}
 	conferences := make(chan conference.Conference)
 
-	for _, year := range local.Years {
-		folder := local.BasePath + "/" + year
+	for _, year := range l.Years {
+		folder := l.BasePath + "/" + year
 
 		err := filepath.Walk(folder, func(path string, info os.FileInfo, err error) error {
 			wg.Add(1)
-			go local.loadFile(path, conferences, &wg)
+			go loadFile(path, conferences, &wg)
 			return nil
 		})
 		if err != nil {
@@ -103,6 +105,12 @@ func (local *LocalFileImporter) Import() (*conference.Store, error) {
 		close(conferences)
 	}()
 
+	return conferences
+}
+
+func (l *LocalFileImporter) Import() (*conference.Store, error) {
+	store := &conference.Store{}
+	conferences := l.LoadFiles()
 	for entry := range conferences {
 		store.Push(entry)
 	}
