@@ -1,0 +1,126 @@
+[
+  {
+    "name": "dotnetdays",
+    "url": "https://dotnetdays.ro",
+    "startDate": "2019-02-23",
+    "endDate": "2019-02-23",
+    "city": "Iasi",
+    "country": "Romania",
+    "twitter": "@dotnetdaysro"
+  },
+  {
+    "name": "F# eXchange",
+    "url": "https://skillsmatter.com/conferences/10869-f-sharp-exchange-2019",
+    "startDate": "2019-04-04",
+    "endDate": "2019-04-05",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@skillsmatter",
+    "cfpUrl": "https://skillsmatter.com/conferences/10869-f-sharp-exchange-2019#get_involved",
+    "cfpEndDate": "2019-01-14"
+  },
+  {
+    "name": "SUGCON EU",
+    "url": "https://www.sugcon.eu",
+    "startDate": "2019-04-04",
+    "endDate": "2019-04-05",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@SUGCONF"
+  },
+  {
+    "name": "DotNetSouth.Tech",
+    "url": "http://DotNetSouth.Tech",
+    "startDate": "2019-05-08",
+    "endDate": "2019-05-10",
+    "city": "Atlanta",
+    "country": "U.S.A.",
+    "twitter": "@DotNetSouth",
+    "cfpUrl": "http://dotnetsouth.tech/cfp/",
+    "cfpEndDate": "2019-02-08"
+  },
+  {
+    "name": "DotNetSouth.Tech",
+    "url": "https://dotnetsouth.tech",
+    "startDate": "2019-05-13",
+    "endDate": "2019-05-14",
+    "city": "Atlanta",
+    "country": "U.S.A.",
+    "twitter": "@dotnetsouth"
+  },
+  {
+    "name": "Fable conf",
+    "url": "https://fable.io/fableconf",
+    "startDate": "2019-09-06",
+    "endDate": "2019-09-07",
+    "city": "Antwerp",
+    "country": "Belgium",
+    "twitter": "@FableCompiler"
+  },
+  {
+    "name": "BASTA!",
+    "url": "https://basta.net",
+    "startDate": "2019-09-23",
+    "endDate": "2019-09-27",
+    "city": "Mainz",
+    "country": "Germany",
+    "twitter": "@BASTAcon"
+  },
+  {
+    "name": "Dotnetos - .NET Performance Conference",
+    "url": "https://conf.dotnetos.org",
+    "startDate": "2019-10-10",
+    "endDate": "2019-10-11",
+    "city": "Warsaw",
+    "country": "Poland",
+    "twitter": "@dotnetosorg"
+  },
+  {
+    "name": ".NET DeveloperDays",
+    "url": "https://net.developerdays.pl/",
+    "startDate": "2019-10-23",
+    "endDate": "2019-10-25",
+    "city": "Warsaw",
+    "country": "Poland",
+    "twitter": "@DeveloperDaysPL"
+  },
+  {
+    "name": ".NET Fest",
+    "url": "http://dotnetfest.com",
+    "startDate": "2019-10-25",
+    "endDate": "2019-10-26",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "cfpUrl": "http://dotnetfest.com/speakers_eng.html",
+    "cfpEndDate": "2019-09-21"
+  },
+  {
+    "name": "DotNext",
+    "url": "https://dotnext-moscow.ru/en",
+    "startDate": "2019-11-06",
+    "endDate": "2019-11-07",
+    "city": "Moscow",
+    "country": "Russia",
+    "twitter": "@DotNextConf"
+  },
+  {
+    "name": "Update Conference Prague",
+    "url": "https://www.updateconference.net",
+    "startDate": "2019-11-14",
+    "endDate": "2019-11-15",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "twitter": "@update_conf"
+  },
+  {
+    "name": "Hacker Camp",
+    "url": "http://hackercamp.in",
+    "startDate": "2019-12-14",
+    "endDate": "2019-12-15",
+    "city": "Noida",
+    "country": "India",
+    "twitter": "@innovaccer",
+    "cfpUrl": "https://hackercamp2019.typeform.com/to/BICv5S",
+    "cfpEndDate": "2019-12-15"
+  }
+]

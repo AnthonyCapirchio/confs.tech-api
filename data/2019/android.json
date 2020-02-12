@@ -1,0 +1,279 @@
+[
+  {
+    "name": "GDG DevFest",
+    "url": "https://devfestflorida.org",
+    "startDate": "2019-01-19",
+    "endDate": "2019-01-19",
+    "city": "Orlando, FL",
+    "country": "U.S.A.",
+    "twitter": "@gdgcentralfl"
+  },
+  {
+    "name": "GDG DevFest",
+    "url": "https://windycity.devfest.io",
+    "startDate": "2019-02-01",
+    "endDate": "2019-02-01",
+    "city": "Chicago, IL",
+    "country": "U.S.A.",
+    "cfpUrl": "https://www.papercall.io/windycitydevfest",
+    "cfpEndDate": "2019-12-01"
+  },
+  {
+    "name": "GDG DevFest",
+    "url": "https://devfest.mn",
+    "startDate": "2019-02-02",
+    "endDate": "2019-02-02",
+    "city": "Minneapolis",
+    "country": "U.S.A.",
+    "cfpUrl": "https://devfest.mn/cfp",
+    "cfpEndDate": "2019-11-02"
+  },
+  {
+    "name": "DroidKaigi",
+    "url": "https://droidkaigi.jp/2019/en",
+    "startDate": "2019-02-07",
+    "endDate": "2019-02-08",
+    "city": "Tokyo",
+    "country": "Japan",
+    "cfpUrl": "https://sessionize.com/droidkaigi2019",
+    "cfpEndDate": "2018-10-21",
+    "twitter": "@DroidKaigi"
+  },
+  {
+    "name": "RO MobOS",
+    "url": "http://romobos.com",
+    "startDate": "2019-02-14",
+    "endDate": "2019-02-16",
+    "city": "Cluj-Napoca",
+    "country": "Romania",
+    "twitter": "@romobos",
+    "cfpUrl": "http://romobos.com/2019-edition/call-for-papers",
+    "cfpEndDate": "2018-12-15"
+  },
+  {
+    "name": "FITC Amsterdam",
+    "url": "http://fitc.ca/event/am19/",
+    "startDate": "2019-02-18",
+    "endDate": "2019-02-19",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@fitc"
+  },
+  {
+    "name": "AppDevCon",
+    "url": "https://appdevcon.nl",
+    "startDate": "2019-03-12",
+    "endDate": "2019-03-15",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@AppdevconNL",
+    "cfpUrl": "https://appdevcon.nl/cfp/",
+    "cfpEndDate": "2018-12-21"
+  },
+  {
+    "name": "MobileTech",
+    "url": "https://mobiletechcon.de/en",
+    "startDate": "2019-03-25",
+    "endDate": "2019-03-27",
+    "city": "Munich",
+    "country": "Germany",
+    "twitter": "@MobileTechCon"
+  },
+  {
+    "name": "GreachConf",
+    "url": "http://greachconf.com",
+    "startDate": "2019-03-28",
+    "endDate": "2019-03-30",
+    "city": "Madrid",
+    "country": "Spain",
+    "cfpUrl": "http://greachconf.com/cfp",
+    "cfpEndDate": "2019-01-14",
+    "twitter": "@greachconf"
+  },
+  {
+    "name": "CodeMobile",
+    "url": "http://www.codemobile.co.uk",
+    "startDate": "2019-04-01",
+    "endDate": "2019-04-04",
+    "city": "Chester",
+    "country": "U.K.",
+    "twitter": "@codemobileuk",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdf9uZoBzmfv-oCN0povGPNK3kFKNb5MIvThZd8QH-dVnuQzQ/viewform",
+    "cfpEndDate": "2018-10-31"
+  },
+  {
+    "name": "Droidcon",
+    "url": "http://www.droidcon-boston.com",
+    "startDate": "2019-04-08",
+    "endDate": "2019-04-09",
+    "city": "Boston",
+    "country": "U.S.A.",
+    "twitter": "@droidconbos",
+    "cfpEndDate": "2019-01-01",
+    "cfpUrl": "http://bit.ly/dcbos-19-cfp"
+  },
+  {
+    "name": "FITC Toronto",
+    "url": "http://fitc.ca/event/to19/",
+    "startDate": "2019-04-21",
+    "endDate": "2019-04-23",
+    "city": "Toronto",
+    "country": "Canada",
+    "twitter": "@fitc"
+  },
+  {
+    "name": "Android Makers",
+    "url": "https://androidmakers.fr",
+    "startDate": "2019-04-23",
+    "endDate": "2019-04-24",
+    "city": "Paris",
+    "country": "France",
+    "twitter": "@AndroidMakersFR",
+    "cfpEndDate": "2019-01-21",
+    "cfpUrl": "https://cfp.androidmakers.fr/"
+  },
+  {
+    "name": "Chicago Roboto",
+    "url": "http://chicagoroboto.com",
+    "startDate": "2019-04-25",
+    "endDate": "2019-04-26",
+    "city": "Chicago, IL",
+    "country": "U.S.A.",
+    "cfpUrl": "http://chicagoroboto.com/call-for-papers",
+    "cfpEndDate": "2019-01-04"
+  },
+  {
+    "name": "App Builders",
+    "url": "https://www.appbuilders.ch",
+    "startDate": "2019-04-29",
+    "endDate": "2019-04-30",
+    "city": "Lugano",
+    "country": "Switzerland",
+    "twitter": "@appbuilders_ch"
+  },
+  {
+    "name": "Google I/O",
+    "url": "https://events.google.com/io",
+    "startDate": "2019-05-07",
+    "endDate": "2019-05-09",
+    "city": "Mountain View, CA",
+    "country": "U.S.A."
+  },
+  {
+    "name": "Droidcon",
+    "url": "https://www.de.droidcon.com",
+    "startDate": "2019-05-27",
+    "endDate": "2019-05-29",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@droidconberlin"
+  },
+  {
+    "name": "mDevCamp",
+    "url": "https://mdevcamp.eu",
+    "startDate": "2019-05-30",
+    "endDate": "2019-05-31",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "twitter": "@mdevcamp",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfaELijX77h5xdoLtKbFmYeZGjHOpkGp7lV5JDrzcxOJP68Ow/viewform",
+    "cfpEndDate": "2019-02-28"
+  },
+  {
+    "name": "ADDC - App Design & Development Conference",
+    "url": "https://addconf.com",
+    "startDate": "2019-06-26",
+    "endDate": "2019-06-28",
+    "city": "Barcelona",
+    "country": "Spain",
+    "twitter": "@addconf"
+  },
+  {
+    "name": "360|AnDev",
+    "url": "http://360andev.com",
+    "startDate": "2019-07-18",
+    "endDate": "2019-07-19",
+    "city": "Denver, CO",
+    "country": "U.S.A.",
+    "cfpUrl": "http://360andev.com/call-for-papers/",
+    "cfpEndDate": "2019-04-06"
+  },
+  {
+    "name": "DroidconKE",
+    "url": "https://droidcon.co.ke",
+    "startDate": "2019-08-08",
+    "endDate": "2019-08-09",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "twitter": "@droidconke",
+    "cfpUrl": "https://sessionize.com/droidconke",
+    "cfpEndDate": "2019-06-30"
+  },
+  {
+    "name": "Droidcon",
+    "url": "https://droidcon.at",
+    "startDate": "2019-09-19",
+    "endDate": "2019-09-20",
+    "city": "Vienna",
+    "country": "Austria"
+  },
+  {
+    "name": ".droidcon Greece",
+    "url": "https://droidcon.gr",
+    "startDate": "2019-09-24",
+    "endDate": "2019-09-25",
+    "city": "Heraklion, Crete",
+    "country": "Greece",
+    "twitter": "@droidconGr",
+    "cfpUrl": "https://sessionize.com/droidconGR",
+    "cfpEndDate": "2019-07-31"
+  },
+  {
+    "name": "Droidcon",
+    "url": "https://skillsmatter.com/conferences/11785-droidcon-london-2019",
+    "startDate": "2019-10-24",
+    "endDate": "2019-10-25",
+    "city": "London",
+    "country": "U.K."
+  },
+  {
+    "name": "Mobilization IX",
+    "url": "http://2019.mobilization.pl",
+    "startDate": "2019-10-26",
+    "endDate": "2019-10-26",
+    "city": "Lodz",
+    "country": "Poland",
+    "twitter": "@mobilizationpl",
+    "cfpUrl": "http://bit.ly/mobilization9-c4p-ct",
+    "cfpEndDate": "2019-07-13"
+  },
+  {
+    "name": "Droidcon",
+    "url": "https://sf.droidcon.com",
+    "startDate": "2019-11-18",
+    "endDate": "2019-11-19",
+    "city": "San Francisco, CA",
+    "country": "U.S.A."
+  },
+  {
+    "name": "KotlinConf",
+    "url": "https://kotlinconf.com/",
+    "startDate": "2019-12-04",
+    "endDate": "2019-12-06",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "cfpUrl": "https://sessionize.com/kotlinconf",
+    "cfpEndDate": "2019-05-20"
+  },
+  {
+    "name": "droidcon Madrid",
+    "url": "https://www.madrid.droidcon.com",
+    "startDate": "2019-12-20",
+    "endDate": "2019-12-21",
+    "city": "Madrid",
+    "country": "Spain",
+    "twitter": "@droidconMAD",
+    "cfpUrl": "https://sessionize.com/droidcon-madrid",
+    "cfpEndDate": "2019-10-30"
+  }
+]

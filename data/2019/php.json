@@ -1,0 +1,421 @@
+[
+  {
+    "name": "PHPBenelux Conference",
+    "url": "https://conference.phpbenelux.eu/2019/",
+    "startDate": "2019-01-25",
+    "endDate": "2019-01-26",
+    "city": "Antwerp",
+    "country": "Belgium",
+    "twitter": "@phpbenelux"
+  },
+  {
+    "name": "DrupalCamp NJ",
+    "url": "https://www.drupalcampnj.org",
+    "startDate": "2019-02-01",
+    "endDate": "2019-02-03",
+    "city": "Princeton",
+    "country": "U.S.A.",
+    "twitter": "@drupalcampnj"
+  },
+  {
+    "name": "SunshinePHP",
+    "url": "http://sunshinephp.com",
+    "startDate": "2019-02-07",
+    "endDate": "2019-02-09",
+    "city": "Miami",
+    "country": "U.S.A.",
+    "twitter": "@SunshinePHP",
+    "cfpUrl": "https://cfp.sunshinephp.com",
+    "cfpEndDate": "2018-09-15"
+  },
+  {
+    "name": "Drupalcamp Florida",
+    "url": "https://www.fldrupal.camp",
+    "startDate": "2019-02-15",
+    "endDate": "2019-02-17",
+    "city": "Orlando",
+    "country": "U.S.A.",
+    "twitter": "@fldrupalcamp",
+    "cfpUrl": "https://www.fldrupal.camp/submit-session",
+    "cfpEndDate": "2019-01-14"
+  },
+  {
+    "name": "PHP UK Conference",
+    "url": "https://www.phpconference.co.uk",
+    "startDate": "2019-02-20",
+    "endDate": "2019-02-22",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@phpukconference"
+  },
+  {
+    "name": "JestPHP",
+    "url": "https://jestphp.com",
+    "startDate": "2019-02-22",
+    "endDate": "2019-02-22",
+    "city": "Mesa",
+    "country": "U.S.A.",
+    "twitter": "@jestphp"
+  },
+  {
+    "name": "Midwest PHP",
+    "url": "https://2019.midwestphp.org/",
+    "startDate": "2019-03-08",
+    "endDate": "2019-03-09",
+    "city": "Bloomington, MN",
+    "country": "U.S.A.",
+    "cfpUrl": "https://cfp.midwestphp.org/",
+    "cfpEndDate": "2018-11-15",
+    "twitter": "@midwestphp"
+  },
+  {
+    "name": "PHP Yorkshire",
+    "url": "https://www.phpyorkshire.co.uk",
+    "startDate": "2019-04-11",
+    "endDate": "2019-04-13",
+    "city": "York",
+    "country": "U.K.",
+    "twitter": "@phpyorkshire",
+    "cfpUrl": "https://cfp.phpyorkshire.co.uk",
+    "cfpEndDate": "2018-11-17"
+  },
+  {
+    "name": "Longhorn PHP",
+    "url": "https://www.longhornphp.com",
+    "startDate": "2019-05-02",
+    "endDate": "2019-05-04",
+    "city": "Austin, TX",
+    "country": "U.S.A.",
+    "twitter": "@longhornphp",
+    "cfpUrl": "https://cfp.longhornphp.com/",
+    "cfpEndDate": "2018-12-15"
+  },
+  {
+    "name": "phpDay",
+    "url": "https://2019.phpday.it",
+    "startDate": "2019-05-10",
+    "endDate": "2019-05-11",
+    "city": "Verona",
+    "country": "Italy",
+    "twitter": "@phpday",
+    "cfpUrl": "https://cfp.phpday.it/"
+  },
+  {
+    "name": "PHP Russia",
+    "url": "http://phprussia.ru",
+    "startDate": "2019-05-17",
+    "endDate": "2019-05-17",
+    "city": "Moscow",
+    "country": "Russia",
+    "cfpUrl": "https://cfp.phprussia.ru",
+    "cfpEndDate": "2019-03-22"
+  },
+  {
+    "name": "AFUP Day",
+    "url": "https://event.afup.org/afup-day-2019/afup-day-2019-lille",
+    "startDate": "2019-05-17",
+    "endDate": "2019-05-17",
+    "city": "Lille",
+    "country": "France",
+    "twitter": "@afup"
+  },
+  {
+    "name": "php[tek]",
+    "url": "https://tek.phparch.com/about",
+    "startDate": "2019-05-21",
+    "endDate": "2019-05-23",
+    "city": "Atlanta",
+    "country": "U.S.A.",
+    "twitter": "@phparch"
+  },
+  {
+    "name": "Laracon EU (south)",
+    "url": "https://laracon.eu/2019",
+    "startDate": "2019-05-23",
+    "endDate": "2019-05-23",
+    "city": "Madrid",
+    "country": "Spain",
+    "twitter": "@laraconeu",
+    "cfpUrl": "https://conf-feedback.typeform.com/to/TjI0Gv",
+    "cfpEndDate": "2019-04-05"
+  },
+  {
+    "name": "PHP Serbia Conference",
+    "url": "https://2019.phpsrbija.rs",
+    "startDate": "2019-05-25",
+    "endDate": "2019-05-26",
+    "city": "Belgrade",
+    "country": "Serbia",
+    "twitter": "@PHPSrbija",
+    "cfpUrl": "https://cfp.phpsrbija.rs/",
+    "cfpEndDate": "2019-02-01"
+  },
+  {
+    "name": "Meet Magento DE",
+    "url": "https://de.meet-magento.com",
+    "startDate": "2019-06-03",
+    "endDate": "2019-06-04",
+    "city": "Leipzig",
+    "country": "Germany",
+    "twitter": "@meetmagento",
+    "cfpUrl": "https://de.meet-magento.com/meet-magento-de/call-for-papers/",
+    "cfpEndDate": "2019-01-31"
+  },
+  {
+    "name": "International PHP Conference",
+    "url": "https://phpconference.com",
+    "startDate": "2019-06-03",
+    "endDate": "2019-06-07",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@phpconference",
+    "cfpUrl": "https://phpconference.com/call-for-papers/",
+    "cfpEndDate": "2018-10-31"
+  },
+  {
+    "name": "Dutch PHP Conference",
+    "url": "https://www.phpconference.nl",
+    "startDate": "2019-06-06",
+    "endDate": "2019-06-08",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@dpcon",
+    "cfpUrl": "https://cfp.phpconference.nl",
+    "cfpEndDate": "2019-01-28"
+  },
+  {
+    "name": "Darkmira Tour PHP",
+    "url": "https://php.darkmiratour.rocks/2019",
+    "startDate": "2019-06-07",
+    "endDate": "2019-06-09",
+    "city": "Fortaleza",
+    "country": "Brazil",
+    "twitter": "@DarkmiraTour",
+    "cfpUrl": "https://cfp.darkmiratour.rocks",
+    "cfpEndDate": "2019-02-10"
+  },
+  {
+    "name": "Blue Conf",
+    "url": "https://blueconf.co.uk",
+    "startDate": "2019-06-07",
+    "endDate": "2019-06-07",
+    "city": "Cardiff",
+    "country": "U.K.",
+    "cfpUrl": "https://www.papercall.io/blue-conf-2019",
+    "cfpEndDate": "2019-05-31"
+  },
+  {
+    "name": "MageTitans NL",
+    "url": "https://www.mage-titans.nl",
+    "startDate": "2019-06-07",
+    "endDate": "2019-06-07",
+    "city": "Groningen",
+    "country": "Netherlands",
+    "twitter": "@magetitansnl",
+    "cfpUrl": "https://cfp.mage-titans.nl",
+    "cfpEndDate": "2019-05-12"
+  },
+  {
+    "name": "PHPConf.Asia",
+    "url": "https://2019.phpconf.asia",
+    "startDate": "2019-06-24",
+    "endDate": "2019-06-25",
+    "city": "Singapore",
+    "country": "Singapore",
+    "twitter": "@phpconfasia",
+    "cfpUrl": "https://cfp.phpconf.asia",
+    "cfpEndDate": "2019-03-08"
+  },
+  {
+    "name": "TYPO3 Developer Days",
+    "url": "https://t3dd19.typo3.com",
+    "startDate": "2019-08-01",
+    "endDate": "2019-08-04",
+    "city": "Karlsruhe",
+    "country": "Germany",
+    "twitter": "@t3dd",
+    "cfpUrl": "https://t3dd19.typo3.com/call-for-paper",
+    "cfpEndDate": "2019-06-15"
+  },
+  {
+    "name": "WordCamp Singapore",
+    "url": "https://2019.singapore.wordcamp.org",
+    "startDate": "2019-08-16",
+    "endDate": "2019-08-17",
+    "city": "Singapore",
+    "country": "Singapore",
+    "twitter": "@WordCampSG"
+  },
+  {
+    "name": "WordCamp Iloilo",
+    "url": "https://2019.iloilo.wordcamp.org",
+    "startDate": "2019-08-24",
+    "endDate": "2019-08-25",
+    "city": "Iloilo City",
+    "country": "Philippines",
+    "cfpUrl": "https://2019.iloilo.wordcamp.org/2019/03/04/call-for-speakers",
+    "cfpEndDate": "2019-06-15"
+  },
+  {
+    "name": "Web Summer Camp",
+    "url": "https://2019.websummercamp.com",
+    "startDate": "2019-08-28",
+    "endDate": "2019-08-30",
+    "city": "Rovinj",
+    "country": "Croatia",
+    "twitter": "@WebSummerCamp",
+    "cfpUrl": "https://sessionize.com/web-summer-camp-2019",
+    "cfpEndDate": "2019-04-30"
+  },
+  {
+    "name": "Laracon EU",
+    "url": "https://laracon.eu/2019",
+    "startDate": "2019-08-28",
+    "endDate": "2019-08-30",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@laraconeu",
+    "cfpUrl": "https://conf-feedback.typeform.com/to/XnOrdq",
+    "cfpEndDate": "2019-05-15"
+  },
+  {
+    "name": "Dot All",
+    "url": "https://dotall.com/2019",
+    "startDate": "2019-09-18",
+    "endDate": "2019-09-20",
+    "city": "Montreal",
+    "country": "Canada",
+    "twitter": "@DotAllConf"
+  },
+  {
+    "name": "SymfonyLive Berlin",
+    "url": "https://berlin2019.live.symfony.com",
+    "startDate": "2019-09-24",
+    "endDate": "2019-09-27",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@SensioLabsDE"
+  },
+  {
+    "name": "Lightning PHP",
+    "url": "https://lightningphp.org",
+    "startDate": "2019-10-04",
+    "endDate": "2019-10-04",
+    "city": "Tampa",
+    "country": "U.S.A.",
+    "twitter": "@LightningPHP",
+    "cfpUrl": "https://www.papercall.io/lightningphp2019",
+    "cfpEndDate": "2019-08-02"
+  },
+  {
+    "name": "Symfony Day",
+    "url": "https://2019.symfonyday.it",
+    "startDate": "2019-10-17",
+    "endDate": "2019-10-18",
+    "city": "Verona",
+    "country": "Italy",
+    "twitter": "@SymfonyDayIt",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc2I-7W_j0zCFCRxqqhZMkm0TD5D19WYX166fP5tWc8y8NMkA/viewform",
+    "cfpEndDate": "2019-06-01"
+  },
+  {
+    "name": "International PHP Conference",
+    "url": "https://phpconference.com",
+    "startDate": "2019-10-21",
+    "endDate": "2019-10-25",
+    "city": "Munich",
+    "country": "Germany",
+    "twitter": "@phpconference"
+  },
+  {
+    "name": "php[world]",
+    "url": "https://world.phparch.com",
+    "startDate": "2019-10-23",
+    "endDate": "2019-10-24",
+    "city": "Washington, D.C.",
+    "country": "U.S.A.",
+    "twitter": "@_phpworld",
+    "cfpUrl": "https://sessionize.com/phpworld-2019",
+    "cfpEndDate": "2019-06-07"
+  },
+  {
+    "name": "Forum PHP",
+    "url": "https://event.afup.org",
+    "startDate": "2019-10-24",
+    "endDate": "2019-10-25",
+    "city": "Paris",
+    "country": "France",
+    "twitter": "@afup"
+  },
+  {
+    "name": "ScotlandPHP",
+    "url": "https://conference.scotlandphp.co.uk",
+    "startDate": "2019-11-08",
+    "endDate": "2019-11-09",
+    "city": "Edinburgh",
+    "country": "U.K.",
+    "twitter": "@scotlandphp",
+    "cfpUrl": "https://cfs.scotlandphp.co.uk",
+    "cfpEndDate": "2019-04-22"
+  },
+  {
+    "name": "ScotlandPHP",
+    "url": "https://scophp.co",
+    "startDate": "2019-11-08",
+    "endDate": "2019-11-09",
+    "city": "Edinburgh",
+    "country": "U.K.",
+    "twitter": "@ScotlandPHP",
+    "cfpUrl": "https://scophp.co/cfs",
+    "cfpEndDate": "2019-04-22"
+  },
+  {
+    "name": "Bulgaria PHP Conference",
+    "url": "https://www.bgphp.org",
+    "startDate": "2019-11-08",
+    "endDate": "2019-11-10",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "twitter": "@bgphpconf"
+  },
+  {
+    "name": "PHP.Barcelona Conference",
+    "url": "https://php.barcelona",
+    "startDate": "2019-11-12",
+    "endDate": "2019-11-13",
+    "city": "Barcelona",
+    "country": "Spain",
+    "twitter": "@phpbcnconf",
+    "cfpUrl": "https://php.barcelona/call-for-papers",
+    "cfpEndDate": "2019-08-31"
+  },
+  {
+    "name": "PHPCon Poland",
+    "url": "https://2019.phpcon.pl",
+    "startDate": "2019-11-15",
+    "endDate": "2019-11-17",
+    "city": "Szczyrk",
+    "country": "Poland",
+    "twitter": "@phpconpoland"
+  },
+  {
+    "name": "SymfonyCon",
+    "url": "https://amsterdam2019.symfony.com",
+    "startDate": "2019-11-21",
+    "endDate": "2019-11-23",
+    "city": "Amsterdam",
+    "country": "Netherland",
+    "twitter": "@SymfonyCon"
+  },
+  {
+    "name": "New England Drupal Camp",
+    "url": "https://nedcamp.org",
+    "startDate": "2019-11-22",
+    "endDate": "2019-11-23",
+    "city": "Providence, RI",
+    "country": "U.S.A.",
+    "twitter": "@NEDCamp",
+    "cfpUrl": "https://nedcamp.org/submit-session",
+    "cfpEndDate": "2019-09-23"
+  }
+]

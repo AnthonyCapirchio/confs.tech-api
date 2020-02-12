@@ -1,0 +1,47 @@
+[
+  {
+    "name": "DevFest du bout du monde",
+    "url": "https://devfest.duboutdumonde.bzh",
+    "startDate": "2019-02-22",
+    "endDate": "2019-02-22",
+    "city": "Brest",
+    "country": "France",
+    "twitter": "@devfestbdm"
+  },
+  {
+    "name": "TECHSPO Houston",
+    "url": "https://techspohouston.com",
+    "startDate": "2019-06-05",
+    "endDate": "2019-06-06",
+    "city": "Houston",
+    "country": "U.S.A.",
+    "twitter": "@techspotweets"
+  },
+  {
+    "name": "TECHSPO Sydney",
+    "url": "https://techsposydney.com",
+    "startDate": "2019-08-28",
+    "endDate": "2019-08-29",
+    "city": "Sydney",
+    "country": "Australia"
+  },
+  {
+    "name": "International TYPO3 Conference",
+    "url": "https://t3con19.typo3.com",
+    "startDate": "2019-10-17",
+    "endDate": "2019-10-18",
+    "city": "The Hague",
+    "country": "Netherlands",
+    "twitter": "@typo3",
+    "cfpUrl": "https://t3con19.typo3.com/speakers/cfp",
+    "cfpEndDate": "2019-06-17"
+  },
+  {
+    "name": "TECHSPO Johannesburg",
+    "url": "https://techspojoburg.co.za",
+    "startDate": "2019-10-30",
+    "endDate": "2019-10-31",
+    "city": "Johannesburg",
+    "country": "South Africa"
+  }
+]

@@ -1,0 +1,198 @@
+[
+  {
+    "name": "CPX 360",
+    "url": "https://www.checkpoint.com/cpx/asia",
+    "startDate": "2020-01-14",
+    "endDate": "2020-01-16",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "cfpUrl": "https://www.checkpoint.com/cpx/asia",
+    "cfpEndDate": "2020-01-16"
+  },
+  {
+    "name": "osquery@scale",
+    "url": "https://www.osqueryatscale.com",
+    "startDate": "2020-01-22",
+    "endDate": "2020-01-23",
+    "city": "San Francisco",
+    "country": "U.S.A.",
+    "cfpUrl": "https://www.papercall.io/osqueryatscale-cfp",
+    "cfpEndDate": "2019-12-31"
+  },
+  {
+    "name": "CPX 360",
+    "url": "https://www.checkpoint.com/cpx/americas",
+    "startDate": "2020-01-27",
+    "endDate": "2020-01-29",
+    "city": "New Orleans",
+    "country": "U.S.A.",
+    "cfpUrl": "https://www.checkpoint.com/cpx/americas",
+    "cfpEndDate": "2020-01-29"
+  },
+  {
+    "name": "ShmooCon",
+    "url": "https://www.shmoocon.org",
+    "startDate": "2020-01-31",
+    "endDate": "2020-02-02",
+    "city": "Washington DC",
+    "country": "U.S.A."
+  },
+  {
+    "name": "CPX 360",
+    "url": "https://www.checkpoint.com/cpx/europe",
+    "startDate": "2020-02-04",
+    "endDate": "2020-02-06",
+    "city": "Vienna",
+    "country": "Austria",
+    "cfpUrl": "https://www.checkpoint.com/cpx/europe",
+    "cfpEndDate": "2020-02-06"
+  },
+  {
+    "name": "Financial Cryptography and Data Security",
+    "url": "https://fc20.ifca.ai",
+    "startDate": "2020-02-10",
+    "endDate": "2020-02-14",
+    "city": "Sabah",
+    "country": "Malaysia",
+    "cfpUrl": "https://fc20.ifca.ai/codefi",
+    "cfpEndDate": "2020-01-10"
+  },
+  {
+    "name": "Texas A&M University System Technology Conference",
+    "url": "https://techsummit.tamu.edu",
+    "startDate": "2020-02-16",
+    "endDate": "2020-02-18",
+    "city": "Galveston, Texas ",
+    "country": "U.S.A. ",
+    "twitter": "@TAMUSTechSummit"
+  },
+  {
+    "name": "sec4dev Conference & Bootcamp",
+    "url": "https://sec4dev.io",
+    "startDate": "2020-02-24",
+    "endDate": "2020-02-27",
+    "city": "Vienna",
+    "country": "Austria",
+    "twitter": "@sec4dev"
+  },
+  {
+    "name": "Women in CyberSecurity (WiCyS)",
+    "url": "https://www.wicys.org/conference",
+    "startDate": "2020-03-12",
+    "endDate": "2020-03-14",
+    "city": "Aurora, CO",
+    "country": "U.S.A.",
+    "twitter": "@WiCySorg"
+  },
+  {
+    "name": "BSidesSLC",
+    "url": "https://www.bsidesslc.org",
+    "startDate": "2020-03-20",
+    "endDate": "2020-03-21",
+    "city": "Sandy, UT",
+    "country": "U.S.A.",
+    "twitter": "@BSidesSLC",
+    "cfpUrl": "https://docs.google.com/forms/d/1Ilx2H_mKLXJh5JqBQNJWfRBfH9GrY-FcDVZcYQ58H34"
+  },
+  {
+    "name": "Bsides Rochester",
+    "url": "http://bsidesroc.com",
+    "startDate": "2020-03-21",
+    "endDate": "2020-03-21",
+    "city": "Rochester, NY",
+    "country": "U.S.A.",
+    "twitter": "@BsidesROC",
+    "cfpUrl": "http://bsidesroc.com/cfp",
+    "cfpEndDate": "2020-02-21"
+  },
+  {
+    "name": "BSides Ljubljana",
+    "url": "https://0x7e4.bsidesljubljana.si",
+    "startDate": "2020-04-04",
+    "endDate": "2020-04-04",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "twitter": "@BSidesLjubljana",
+    "cfpUrl": "https://0x7e4.bsidesljubljana.si/cfp",
+    "cfpEndDate": "2020-02-10"
+  },
+  {
+    "name": "QuBit Prague",
+    "url": "https://prague.qubitconference.com",
+    "startDate": "2020-04-22",
+    "endDate": "2020-04-23",
+    "city": "Prague",
+    "country": "Czech republic",
+    "twitter": "@QuBitCon "
+  },
+  {
+    "name": "RuhrSec",
+    "url": "https://www.ruhrsec.de/2020",
+    "startDate": "2020-05-05",
+    "endDate": "2020-05-08",
+    "city": "Bochum",
+    "country": "Germany",
+    "twitter": "@ruhrsec",
+    "cfpUrl": "https://www.ruhrsec.de/2020/index.html#cfp",
+    "cfpEndDate": "2020-01-13"
+  },
+  {
+    "name": "PEPR'20",
+    "url": "https://www.usenix.org/conference/pepr20",
+    "startDate": "2020-05-11",
+    "endDate": "2020-05-12",
+    "city": "Santa Clara, CA",
+    "country": "U.S.A.",
+    "twitter": "@PEPR",
+    "cfpUrl": "https://www.usenix.org/conference/pepr20/call-for-participation",
+    "cfpEndDate": "2020-02-21"
+  },
+  {
+    "name": "IT Security Summit",
+    "url": "https://it-security-summit.de",
+    "startDate": "2020-05-18",
+    "endDate": "2020-05-20",
+    "city": "Munich",
+    "country": "Germany",
+    "twitter": "@ITSecSummit"
+  },
+  {
+    "name": "SILM  Workshop",
+    "url": "https://silm-workshop-2020.inria.fr",
+    "startDate": "2020-06-19",
+    "endDate": "2020-06-19",
+    "city": "Genova",
+    "country": "Italy",
+    "cfpUrl": "https://silm-workshop-2020.inria.fr/call-for-papers",
+    "cfpEndDate": "2020-03-16"
+  },
+  {
+    "name": "International Conference on Network Security and Computer Engineering",
+    "url": "https://iccait.coreconferences.com",
+    "startDate": "2020-09-08",
+    "endDate": "2020-09-09",
+    "city": "London",
+    "country": "U.K.",
+    "cfpUrl": "https://iccait.coreconferences.com",
+    "cfpEndDate": "2020-08-10"
+  },
+  {
+    "name": "International Conference on Security in Computing and Cloud Computing",
+    "url": "https://icsccc.coreconferences.com",
+    "startDate": "2020-09-08",
+    "endDate": "2020-09-09",
+    "city": "London",
+    "country": "U.K.",
+    "cfpUrl": "https://icsccc.coreconferences.com",
+    "cfpEndDate": "2020-08-10"
+  },
+  {
+    "name": "Balkan Computer Congress - BalCCon2k20",
+    "url": "https://2k20.balccon.org",
+    "startDate": "2020-09-25",
+    "endDate": "2020-09-27",
+    "city": "Novi Sad",
+    "country": "Serbia",
+    "twitter": "@balcc0n"
+  }
+]

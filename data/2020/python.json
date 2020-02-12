@@ -1,0 +1,89 @@
+[
+  {
+    "name": "PyCascades",
+    "url": "https://2020.pycascades.com",
+    "startDate": "2020-02-08",
+    "endDate": "2020-02-09",
+    "city": "Portland, OR",
+    "country": "U.S.A.",
+    "twitter": "@pycascades",
+    "cfpUrl": "https://www.papercall.io/pycascades-2020",
+    "cfpEndDate": "2019-10-01"
+  },
+  {
+    "name": "dotPy",
+    "url": "https://www.dotpy.io",
+    "startDate": "2020-03-02",
+    "endDate": "2020-03-02",
+    "city": "Paris",
+    "country": "France",
+    "twitter": "@dotpy_io",
+    "cfpUrl": "https://www.dotconferences.com/cfp",
+    "cfpEndDate": "2020-01-01"
+  },
+  {
+    "name": "PyCon SK",
+    "url": "https://2020.pycon.sk",
+    "startDate": "2020-03-27",
+    "endDate": "2020-03-29",
+    "city": "Bratislava",
+    "country": "Slovakia"
+  },
+  {
+    "name": "PyCon Italy",
+    "url": "https://www.pycon.it/en/",
+    "startDate": "2020-04-02",
+    "endDate": "2020-04-05",
+    "city": "Florence",
+    "country": "Italy",
+    "twitter": "@pyconit"
+  },
+  {
+    "name": "PyCon",
+    "url": "https://us.pycon.org/2020",
+    "startDate": "2020-04-15",
+    "endDate": "2020-04-23",
+    "city": "Pittsburgh",
+    "country": "U.S.A."
+  },
+  {
+    "name": "DragonPy",
+    "url": "https://dragonpy.com",
+    "startDate": "2020-04-18",
+    "endDate": "2020-04-19",
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "twitter": "@dragonpyconf",
+    "cfpUrl": "https://www.papercall.io/dragonpy",
+    "cfpEndDate": "2020-01-31"
+  },
+  {
+    "name": "Python Summit",
+    "url": "https://python-summit.de",
+    "startDate": "2020-04-22",
+    "endDate": "2020-04-24",
+    "city": "Munich",
+    "country": "Germany",
+    "twitter": "@python_summit"
+  },
+  {
+    "name": "enterPy",
+    "url": "http://www.enterpy.de",
+    "startDate": "2020-05-25",
+    "endDate": "2020-05-26",
+    "city": "Mannheim",
+    "country": "Germany",
+    "twitter": "@enterpyconf",
+    "cfpUrl": "https://www.enterpy.de/proposal_einreichen_en.php",
+    "cfpEndDate": "2020-01-24"
+  },
+  {
+    "name": "PyConDE & PyData Berlin",
+    "url": "https://de.pycon.org",
+    "startDate": "2020-10-14",
+    "endDate": "2020-10-16",
+    "city": "Berlin ",
+    "country": "Germany",
+    "twitter": "@PyConDE"
+  }
+]

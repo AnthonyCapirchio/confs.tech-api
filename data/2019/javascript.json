@@ -1,0 +1,1966 @@
+[
+  {
+    "name": "ngAtlanta",
+    "url": "http://ng-atl.org",
+    "startDate": "2019-01-09",
+    "endDate": "2019-01-12",
+    "city": "Atlanta",
+    "country": "U.S.A.",
+    "twitter": "@NgAtlanta"
+  },
+  {
+    "name": "Covalence",
+    "url": "http://www.covalenceconf.com",
+    "startDate": "2019-01-16",
+    "endDate": "2019-01-16",
+    "city": "San Francisco",
+    "country": "U.S.A.",
+    "twitter": "@covalenceconf"
+  },
+  {
+    "name": "ForwardJS",
+    "url": "https://forwardjs.com",
+    "startDate": "2019-01-24",
+    "endDate": "2019-01-24",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "twitter": "@forwardjs"
+  },
+  {
+    "name": "React Iran",
+    "url": "http://reactiran.com",
+    "startDate": "2019-01-31",
+    "endDate": "2019-01-31",
+    "city": "Tehran",
+    "country": "Iran"
+  },
+  {
+    "name": "FFS Conf Down Under",
+    "url": "https://ffsconfdownunder.com",
+    "startDate": "2019-02-02",
+    "endDate": "2019-02-02",
+    "city": "Melbourne",
+    "country": "Australia",
+    "twitter": "@ffscondownunder"
+  },
+  {
+    "name": "c't <webdev>",
+    "url": "https://ctwebdev.de",
+    "startDate": "2019-02-06",
+    "endDate": "2019-02-08",
+    "city": "Köln",
+    "country": "Germany",
+    "twitter": "@heiseonline",
+    "cfpUrl": "https://ctwebdev.de/international.html",
+    "cfpEndDate": "2018-08-31"
+  },
+  {
+    "name": "Pause Fest",
+    "url": "https://pausefest.com.au/",
+    "startDate": "2019-02-06",
+    "endDate": "2019-02-08",
+    "city": "Melbourne",
+    "country": "Australia",
+    "twitter": "@pausefest"
+  },
+  {
+    "name": "JSConf Hawaii",
+    "url": "https://www.jsconfhi.com",
+    "startDate": "2019-02-07",
+    "endDate": "2019-02-08",
+    "city": "Hawaiʻi",
+    "country": "U.S.A.",
+    "twitter": "@jsconfhi",
+    "cfpUrl": "https://www.jsconfhi.com/call-for-speakers/",
+    "cfpEndDate": "2018-08-10"
+  },
+  {
+    "name": "FrontFest",
+    "url": "https://frontfest.es",
+    "startDate": "2019-02-09",
+    "endDate": "2019-02-09",
+    "city": "Madrid",
+    "country": "Spain",
+    "twitter": "@frontfest",
+    "cfpUrl": "https://frontfest.es/",
+    "cfpEndDate": "2018-11-11"
+  },
+  {
+    "name": "Frontend Developer Love",
+    "url": "http://www.frontenddeveloperlove.com/",
+    "startDate": "2019-02-13",
+    "endDate": "2019-02-15",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@frontend_love"
+  },
+  {
+    "name": "Vue.js Amsterdam",
+    "url": "https://www.vuejs.amsterdam",
+    "startDate": "2019-02-14",
+    "endDate": "2019-02-15",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@vuejsamsterdam"
+  },
+  {
+    "name": "Agent Conf",
+    "url": "https://www.agent.sh",
+    "startDate": "2019-02-21",
+    "endDate": "2019-02-24",
+    "city": "Dornbirn & Lech",
+    "country": "Austria",
+    "twitter": "@AgentConf"
+  },
+  {
+    "name": "ng-India",
+    "url": "https://www.ng-ind.com",
+    "startDate": "2019-02-23",
+    "endDate": "2019-02-23",
+    "city": "Gurgaon",
+    "country": "India"
+  },
+  {
+    "name": "ReactFoo",
+    "url": "https://reactfoo.in/2019",
+    "startDate": "2019-03-01",
+    "endDate": "2019-03-02",
+    "city": "Bengaluru",
+    "country": "India",
+    "twitter": "@ReactFoo",
+    "cfpUrl": "https://reactfoo.talkfunnel.com/2019/",
+    "cfpEndDate": "2018-10-15"
+  },
+  {
+    "name": "JS Kongress",
+    "url": "https://js-kongress.com",
+    "startDate": "2019-03-11",
+    "endDate": "2019-03-12",
+    "city": "Munich",
+    "country": "Germany",
+    "twitter": "@JSKongress",
+    "cfpUrl": "https://medium.com/@jskongress/we-want-you-for-the-r-evolution-of-architectures-b7a7d40cddd5",
+    "cfpEndDate": "2018-10-14"
+  },
+  {
+    "name": "EmberConf",
+    "url": "http://emberconf.com",
+    "startDate": "2019-03-18",
+    "endDate": "2019-03-20",
+    "city": "Portland, OR",
+    "country": "U.S.A.",
+    "twitter": "@EmberConf"
+  },
+  {
+    "name": "UpFront",
+    "url": "http://upfrontconf.com",
+    "startDate": "2019-03-22",
+    "city": "Manchester",
+    "country": "U.K.",
+    "twitter": "@upfrontconf"
+  },
+  {
+    "name": "VueConf US",
+    "url": "http://us.vuejs.org",
+    "startDate": "2019-03-25",
+    "endDate": "2019-03-27",
+    "city": "Tampa, FL",
+    "country": "U.S.A.",
+    "twitter": "@VueConf.US",
+    "cfpUrl": "http://us.vuejs.org/call-for-papers/",
+    "cfpEndDate": "2018-11-01"
+  },
+  {
+    "name": "Typeof Conference",
+    "url": "https://typeofconf.com",
+    "startDate": "2019-03-27",
+    "endDate": "2019-03-29",
+    "city": "Porto",
+    "country": "Portugal",
+    "twitter": "@typeofconf"
+  },
+  {
+    "name": "Reactathon",
+    "url": "https://www.reactathon.com",
+    "startDate": "2019-03-30",
+    "endDate": "2019-03-31",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "twitter": "@reactathon",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf3gtpQkYb2SNNI2WxBTC2rFYpFUn6cyMA9k8HZVZrwg0gYVw/viewform?usp=sf_link",
+    "cfpEndDate": "2019-01-15"
+  },
+  {
+    "name": "debugCon",
+    "url": "https://debug.al",
+    "startDate": "2019-03-30",
+    "endDate": "2019-03-30",
+    "city": "Pristina",
+    "country": "Kosovo"
+  },
+  {
+    "name": "FrontEnd Fest",
+    "url": "https://frontendfest.io/conference/chicago/2019/04/home",
+    "startDate": "2019-04-01",
+    "endDate": "2019-04-03",
+    "city": "Chicago, IL",
+    "country": "U.S.A.",
+    "cfpUrl": "https://frontendfest.io/home/speaker_request"
+  },
+  {
+    "name": "#PerfMatters",
+    "url": "https://perfmattersconf.com",
+    "startDate": "2019-04-02",
+    "endDate": "2019-04-03",
+    "city": "Redwood City, CA",
+    "country": "U.S.A.",
+    "twitter": "@perfmattersconf",
+    "cfpUrl": "https://perfmattersconf.com/speak/",
+    "cfpEndDate": "2018-11-15"
+  },
+  {
+    "name": "TESTCON  Sydney",
+    "url": "https://www.clavent.com/event-list/testcon-2019-sydney",
+    "startDate": "2019-04-02",
+    "endDate": "2019-04-02",
+    "city": "Sydney",
+    "country": "Australia"
+  },
+  {
+    "name": "Frontend NE",
+    "url": "https://2019.frontendne.co.uk",
+    "startDate": "2019-04-03",
+    "endDate": "2019-04-03",
+    "city": "Newcastle",
+    "country": "U.K.",
+    "twitter": "@frontendne",
+    "cfpUrl": "https://2019.frontendne.co.uk/call-for-speakers.html"
+  },
+  {
+    "name": "FrontCon",
+    "url": "https://frontcon.lv",
+    "startDate": "2019-04-03",
+    "endDate": "2019-04-05",
+    "city": "Riga",
+    "country": "Latvia",
+    "twitter": "@frontcon",
+    "cfpUrl": "https://www.papercall.io/fc19",
+    "cfpEndDate": "2018-12-09"
+  },
+  {
+    "name": "YGLF Code Camp Israel",
+    "url": "https://www.israel.yglfconf.com",
+    "startDate": "2019-04-03",
+    "endDate": "2019-04-04",
+    "city": "Nasholim",
+    "country": "Israel",
+    "twitter": "@YGLF_IL",
+    "cfpUrl": "https://www.israel.yglfconf.com/callforpapers",
+    "cfpEndDate": "2019-01-31"
+  },
+  {
+    "name": "App.js Conf",
+    "url": "https://appjs.co/",
+    "startDate": "2019-04-04",
+    "endDate": "2019-04-05",
+    "city": "Krakow",
+    "country": "Poland",
+    "twitter": "@appjsconf",
+    "cfpUrl": "https://goo.gl/forms/Pn9LFBDuAGvWJyZf1",
+    "cfpEndDate": "2019-02-14"
+  },
+  {
+    "name": "TESTCON  Melbourne",
+    "url": "https://www.clavent.com/event-list/testcon2019-melbourne",
+    "startDate": "2019-04-04",
+    "endDate": "2019-04-04",
+    "city": "Melbourne",
+    "country": "Australia"
+  },
+  {
+    "name": "JS Fest",
+    "url": "http://jsfest.com.ua/indexe.html",
+    "startDate": "2019-04-05",
+    "endDate": "2019-04-06",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "twitter": "@jsfestua",
+    "cfpUrl": "http://jsfest.com.ua/speakers_eng.html",
+    "cfpEndDate": "2019-02-23"
+  },
+  {
+    "name": "ForwardJS Ottawa",
+    "url": "https://forwardjs.com/ottawa",
+    "startDate": "2019-04-09",
+    "endDate": "2019-04-12",
+    "city": "Ottawa",
+    "country": "Canada",
+    "twitter": "@forwardJS",
+    "cfpUrl": "https://bit.ly/2Pv0nBu"
+  },
+  {
+    "name": "JAMstack_conf_nyc",
+    "url": "https://jamstackconf.com/nyc/",
+    "startDate": "2019-04-09",
+    "endDate": "2019-04-10",
+    "city": "New York",
+    "country": "U.S.A.",
+    "twitter": "@jamstackconf"
+  },
+  {
+    "name": "Sencha Community Days",
+    "url": "https://sencha-community-days.de/",
+    "startDate": "2019-04-10",
+    "endDate": "2019-04-11",
+    "city": "Karlsruhe",
+    "country": "Germany",
+    "cfpUrl": "https://sencha-community-days.de/cfp/",
+    "cfpEndDate": "2019-02-28"
+  },
+  {
+    "name": "JSHeroes",
+    "url": "https://jsheroes.io",
+    "startDate": "2019-04-11",
+    "endDate": "2019-04-12",
+    "city": "Cluj-Napoca",
+    "country": "Romania",
+    "twitter": "@jsheroes",
+    "cfpUrl": "https://jsheroes-form.typeform.com/to/IHohur",
+    "cfpEndDate": "2018-12-01"
+  },
+  {
+    "name": "ReasonConf",
+    "url": "https://www.reason-conf.com/",
+    "startDate": "2019-04-11",
+    "endDate": "2019-04-13",
+    "city": "Vienna",
+    "country": "Austria",
+    "twitter": "@reasonconf",
+    "cfpUrl": "https://www.reason-conf.com/cfp/",
+    "cfpEndDate": "2019-01-31"
+  },
+  {
+    "name": "NativeScript Developer Day",
+    "url": "https://nativescriptdevday.org",
+    "startDate": "2019-04-11",
+    "endDate": "2019-04-12",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@nativescript",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf4EP8H5WPY8hHyui7w8EbxzJQeFLkCyevsUO1gvEWHLKirUg/viewform?usp=sf_link",
+    "cfpEndDate": "2019-02-01"
+  },
+  {
+    "name": "ServerlessDays Zurich",
+    "url": "https://zurich.serverlessdays.io",
+    "startDate": "2019-04-11",
+    "endDate": "2019-04-11",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "twitter": "@ServerlessZRH"
+  },
+  {
+    "name": "VueDay Verona",
+    "url": "https://2019.vueday.it/",
+    "startDate": "2019-04-12",
+    "endDate": "2019-04-12",
+    "city": "Verona",
+    "country": "Italy",
+    "twitter": "@vuedayit"
+  },
+  {
+    "name": "React Amsterdam",
+    "url": "https://react.amsterdam",
+    "startDate": "2019-04-12",
+    "endDate": "2019-04-12",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@reactamsterdam",
+    "cfpUrl": "https://goo.gl/forms/WZsgwz8WGvrlPyvH2",
+    "cfpEndDate": "2019-01-15"
+  },
+  {
+    "name": "Smashing Conference",
+    "url": "https://smashingconf.com/sf-2019/",
+    "startDate": "2019-04-16",
+    "endDate": "2019-04-17",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "twitter": "@smashingconf"
+  },
+  {
+    "name": "MagnoliaJS",
+    "url": "https://magnoliajs.com",
+    "startDate": "2019-04-17",
+    "endDate": "2019-04-18",
+    "city": "Jackson, MS",
+    "country": "U.S.A.",
+    "twitter": "@MagnoliaJSconf"
+  },
+  {
+    "name": "React Finland",
+    "url": "https://react-finland.fi",
+    "startDate": "2019-04-24",
+    "endDate": "2019-04-26",
+    "city": "Helsinki",
+    "country": "Finland",
+    "twitter": "@ReactFinland"
+  },
+  {
+    "name": "Elm in the Spring",
+    "url": "https://www.elminthespring.org",
+    "startDate": "2019-04-26",
+    "endDate": "2019-04-26",
+    "city": "Chicago",
+    "country": "U.S.A.",
+    "twitter": "@ElmInTheSpring",
+    "cfpUrl": "https://www.papercall.io/elm-in-the-spring-2019",
+    "cfpEndDate": "2019-01-31"
+  },
+  {
+    "name": "FrontConf - Munich Frontend Conference",
+    "url": "https://frontconf.com",
+    "startDate": "2019-04-27",
+    "endDate": "2019-04-27",
+    "city": "Munich",
+    "country": "Germany",
+    "twitter": "@FrontMuc"
+  },
+  {
+    "name": "ng-conf",
+    "url": "https://www.ng-conf.org",
+    "startDate": "2019-05-01",
+    "endDate": "2019-05-03",
+    "city": "Salt Lake City, UT",
+    "country": "U.S.A.",
+    "twitter": "@ngconf",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfYLqvSIckyuhWyIl2NAYWQnSEOz2pXt6VRF1hF9MlBmP7aXw/viewform",
+    "cfpEndDate": "2019-01-03"
+  },
+  {
+    "name": "Uphill Conf",
+    "url": "https://uphillconf.com",
+    "startDate": "2019-05-02",
+    "endDate": "2019-05-03",
+    "city": "Bern",
+    "country": "Switzerland",
+    "twitter": "@uphillconf"
+  },
+  {
+    "name": "CityJSConf",
+    "url": "http://cityjsconf.org",
+    "startDate": "2019-05-03",
+    "endDate": "2019-05-03",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@cityjsconf",
+    "cfpUrl": "https://www.papercall.io/cityjsconf2019",
+    "cfpEndDate": "2019-01-31"
+  },
+  {
+    "name": "ReactJS Girls",
+    "url": "https://reactjsgirls.com/",
+    "startDate": "2019-05-03",
+    "endDate": "2019-05-03",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@ReactJSgirls",
+    "cfpUrl": "https://yld.typeform.com/to/gfZ2jc"
+  },
+  {
+    "name": "JSDay",
+    "url": "https://2019.jsday.it",
+    "startDate": "2019-05-08",
+    "endDate": "2019-05-09",
+    "city": "Verona",
+    "country": "Italy",
+    "twitter": "@jsconfit",
+    "cfpUrl": "https://cfp.jsday.it/",
+    "cfpEndDate": "2019-02-04"
+  },
+  {
+    "name": "NationJS Frontrunners",
+    "url": "http://nationjs.com",
+    "startDate": "2019-05-10",
+    "endDate": "2019-05-10",
+    "city": "Washington, DC",
+    "country": "U.S.A.",
+    "twitter": "@nationjs",
+    "cfpUrl": "https://www.papercall.io/nationjs-frontrunners2019",
+    "cfpEndDate": "2019-03-04"
+  },
+  {
+    "name": "React.NotAConf",
+    "url": "http://react-not-a-conf.com",
+    "startDate": "2019-05-11",
+    "endDate": "2019-05-11",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "twitter": "@react-not-a-conf"
+  },
+  {
+    "name": "International JavaScript Conference",
+    "url": "https://javascript-conference.com/en",
+    "startDate": "2019-05-13",
+    "endDate": "2019-05-15",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@JavaScriptCon",
+    "cfpUrl": "https://javascript-conference.com/call-for-papers/",
+    "cfpEndDate": "2018-10-31"
+  },
+  {
+    "name": "You Gotta Love Frontend",
+    "url": "https://www.yougottalovefrontend.com",
+    "startDate": "2019-05-16",
+    "endDate": "2019-05-17",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "twitter": "@YGLFConf",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScop_EaKnLyrgpGN4KiYXAoHmv4_f9vopE1_XIPQalxxdGA9Q/viewform",
+    "cfpEndDate": "2019-02-01"
+  },
+  {
+    "name": "FullStack NYC",
+    "url": "https://skillsmatter.com/conferences/11077",
+    "startDate": "2019-05-16",
+    "endDate": "2019-05-17",
+    "city": "New York",
+    "country": "U.S.A.",
+    "twitter": "@skillsmatter",
+    "cfpUrl": "https://skillsmatter.com/conferences/11077#get_involved",
+    "cfpEndDate": "2018-12-04"
+  },
+  {
+    "name": "Newcrafts",
+    "url": "http://ncrafts.io",
+    "startDate": "2019-05-16",
+    "endDate": "2019-05-17",
+    "city": "Paris",
+    "country": "France",
+    "twitter": "@ncraftsconf",
+    "cfpUrl": "http://cfp.ncrafts.io",
+    "cfpEndDate": "2019-03-03"
+  },
+  {
+    "name": "TECHSPO Toronto",
+    "url": "https://techspotoronto.ca/agenda",
+    "startDate": "2019-05-16",
+    "endDate": "2019-05-17",
+    "city": "Toronto",
+    "country": "Canada",
+    "cfpEndDate": "2019-05-15"
+  },
+  {
+    "name": "Frontend United",
+    "url": "https://www.frontendunited.org",
+    "startDate": "2019-05-17",
+    "endDate": "2019-05-18",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "twitter": "@frontendunited"
+  },
+  {
+    "name": "Voxxed Days Frontend Bucharest",
+    "url": "https://romania.voxxeddays.com/frontend",
+    "startDate": "2019-05-21",
+    "endDate": "2019-05-22",
+    "city": "Bucharest",
+    "country": "Romania",
+    "twitter": "@VoxxedFrontend"
+  },
+  {
+    "name": "ReactEurope",
+    "url": "https://www.react-europe.org",
+    "startDate": "2019-05-23",
+    "endDate": "2019-05-24",
+    "city": "Paris",
+    "country": "France",
+    "twitter": "@ReactEurope"
+  },
+  {
+    "name": "HolyJS Piter",
+    "url": "https://holyjs-piter.ru/en",
+    "startDate": "2019-05-24",
+    "endDate": "2019-05-25",
+    "city": "Saint Petersburg",
+    "country": "Russia",
+    "twitter": "@HolyJSconf",
+    "cfpUrl": "https://holyjs-piter.ru/en/callforpapers/"
+  },
+  {
+    "name": "React Conf Armenia",
+    "url": "https://reactconf.am",
+    "startDate": "2019-05-25",
+    "endDate": "2019-05-25",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "twitter": "@reactconf.am",
+    "cfpUrl": "http://bit.ly/speakReact",
+    "cfpEndDate": "2019-04-10"
+  },
+  {
+    "name": "Ng-SriLanka",
+    "url": "https://www.linkedin.com/company/ng-sl",
+    "startDate": "2019-05-25",
+    "endDate": "2019-05-25",
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "twitter": "@ngslconf",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeJ7FoygPePka6KPb7hnQ6JEwL1A82gmaYf6mYx3fXeTZLTCg/viewform"
+  },
+  {
+    "name": "ngVikings",
+    "url": "https://ngvikings.org/",
+    "startDate": "2019-05-27",
+    "endDate": "2019-05-28",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "twitter": "@ngVikingsConf",
+    "cfpUrl": "https://t.co/CuvkTq68uO",
+    "cfpEndDate": "2019-01-31"
+  },
+  {
+    "name": "Vue Day Alicante",
+    "url": "https://vueday.org/",
+    "startDate": "2019-05-31",
+    "endDate": "2019-05-31",
+    "city": "Alicante",
+    "country": "Spain",
+    "twitter": "@VueDay"
+  },
+  {
+    "name": "JSConf EU",
+    "url": "https://2019.jsconf.eu",
+    "startDate": "2019-06-01",
+    "endDate": "2019-06-02",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@jsconfeu",
+    "cfpUrl": "https://2019.jsconf.eu/call-for-speakers/",
+    "cfpEndDate": "2018-12-23"
+  },
+  {
+    "name": "AltConf",
+    "url": "http://altconf.com",
+    "startDate": "2019-06-03",
+    "endDate": "2019-06-03",
+    "city": "San Jose, CA",
+    "country": "U.S.A.",
+    "twitter": "@altconference",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdtpfJDh53Mu6HHh539Uo51RDfd34QtXaGsvtMW8_dbUz5qSQ/viewform?usp=sf_link",
+    "cfpEndDate": "2019-04-29"
+  },
+  {
+    "name": "JSNation",
+    "url": "http://amsterdamjs.com",
+    "startDate": "2019-06-06",
+    "endDate": "2019-06-07",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@amsterdamjs",
+    "cfpUrl": "https://docs.google.com/forms/d/1whCnyZBqnVNli41Wk0wJh53jSL6topRm_uWMPyNCkPk/edit?usp=sharing",
+    "cfpEndDate": "2019-03-31"
+  },
+  {
+    "name": "Pixel Pioneers",
+    "url": "https://pixelpioneers.co/events/bristol-2019",
+    "city": "Bristol",
+    "country": "U.K.",
+    "startDate": "2019-06-07",
+    "endDate": "2019-06-07",
+    "cfpUrl": "https://pixelpioneers.co/call-for-speakers"
+  },
+  {
+    "name": "NodeConf NL",
+    "url": "http://nodeconference.nl",
+    "startDate": "2019-06-07",
+    "endDate": "2019-06-07",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@nodejsconfnl"
+  },
+  {
+    "name": "JSFoo Coimbatore",
+    "url": "https://jsfoo.in/2019-coimbatore/",
+    "startDate": "2019-06-08",
+    "endDate": "2019-06-08",
+    "city": "Coimbatore",
+    "country": "India",
+    "twitter": "@jsfoo",
+    "cfpUrl": "https://hasgeek.com/jsfoo/2019-coimbatore",
+    "cfpEndDate": "2019-04-29"
+  },
+  {
+    "name": "VueConf China",
+    "url": "https://vue.w3ctech.com/",
+    "startDate": "2019-06-08",
+    "endDate": "2019-06-08",
+    "city": "Shanghai",
+    "country": "China"
+  },
+  {
+    "name": "AngularMIX & AngleBrackets & DEVintersection",
+    "url": "https://angularmix.com/",
+    "startDate": "2019-06-09",
+    "endDate": "2019-06-14",
+    "city": "Orlando, FL",
+    "country": "U.S.A.",
+    "twitter": "@devintersection",
+    "cfpUrl": "https://goo.gl/forms/iHPNUhX4MbfvQG342"
+  },
+  {
+    "name": "Laravel Live UK",
+    "url": "https://laravellive.uk",
+    "startDate": "2019-06-10",
+    "endDate": "2019-06-11",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@LaravelLiveUK"
+  },
+  {
+    "name": "ReactNext",
+    "url": "https://react-next.com/",
+    "startDate": "2019-06-11",
+    "endDate": "2019-06-11",
+    "city": "Tel Aviv",
+    "country": "Israel",
+    "twitter": "@ReactNext",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSd5XH8lFRAIR4Yb5GmcmfBSDe-RQWB6XVOK46NFwYL-7I4BlQ/viewform",
+    "cfpEndDate": "2019-03-15"
+  },
+  {
+    "name": "React Day Norway",
+    "url": "https://reactnorway.com/",
+    "startDate": "2019-06-12",
+    "endDate": "2019-06-12",
+    "city": "Larvik",
+    "country": "Norway",
+    "twitter": "@reactnorway",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe2d6XhxZvIQS3MBUzS5faInvhzbHPdHPqT7nVZV0jHl2c8Ag/viewform",
+    "cfpEndDate": "2019-06-01"
+  },
+  {
+    "name": "Angular UP",
+    "url": "http://angular-up.com",
+    "startDate": "2019-06-12",
+    "endDate": "2019-06-12",
+    "city": "Tel Aviv",
+    "country": "Israel",
+    "twitter": "@AngularUP",
+    "cfpUrl": "https://angular-up.com",
+    "cfpEndDate": "2019-03-15"
+  },
+  {
+    "name": "AngularDay",
+    "url": "https://2019.angularday.it",
+    "startDate": "2019-06-13",
+    "endDate": "2019-06-14",
+    "city": "Verona",
+    "country": "Italy",
+    "twitter": "@angularday"
+  },
+  {
+    "name": "JSConf.Asia",
+    "url": "https://2019.jsconf.asia",
+    "startDate": "2019-06-14",
+    "endDate": "2019-06-16",
+    "city": "Singapore",
+    "country": "Singapore",
+    "twitter": "@jsconfasia",
+    "cfpUrl": "https://contribute.jsconf.asia/"
+  },
+  {
+    "name": "Berlin Buzzwords",
+    "url": "https://berlinbuzzwords.de",
+    "startDate": "2019-06-16",
+    "endDate": "2019-06-18",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@berlinbuzzwords"
+  },
+  {
+    "name": "DinosaurJS",
+    "url": "https://dinosaurjs.org",
+    "startDate": "2019-06-19",
+    "endDate": "2019-06-20",
+    "city": "Denver, CO",
+    "country": "U.S.A.",
+    "twitter": "@dinosaur_js"
+  },
+  {
+    "name": "GMTC",
+    "url": "https://gmtc2019.geekbang.org",
+    "startDate": "2019-06-20",
+    "endDate": "2019-06-21",
+    "city": "Beijing",
+    "country": "China",
+    "cfpUrl": "http://djkmnlzeq9heujs0.mikecrm.com/bJk6RSl"
+  },
+  {
+    "name": "TECHSPO Chicago",
+    "url": "https://techspochicago.com",
+    "startDate": "2019-06-20",
+    "endDate": "2019-06-21",
+    "city": "Chicago",
+    "country": "U.S.A.",
+    "cfpEndDate": "2019-06-20"
+  },
+  {
+    "name": "NodeConf Colombia",
+    "url": "https://colombia.nodeconf.com/",
+    "startDate": "2019-06-21",
+    "endDate": "2019-06-22",
+    "city": "Medellín",
+    "country": "Colombia",
+    "twitter": "@NodeConfCo",
+    "cfpUrl": "https://cfp.nodeconf.co/",
+    "cfpEndDate": "2019-02-28"
+  },
+  {
+    "name": "React Loop",
+    "url": "https://reactloop.com",
+    "startDate": "2019-06-21",
+    "endDate": "2019-06-21",
+    "city": "Chicago",
+    "country": "U.S.A.",
+    "twitter": "@reactloop",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScvMioNskbEVD-eVlG4tozh8VQzQm0W5XQ1bsjf6QaakyfjAg/viewform",
+    "cfpEndDate": "2019-03-20"
+  },
+  {
+    "name": "enterJS",
+    "url": "https://www.enterjs.de/index.php",
+    "startDate": "2019-06-25",
+    "endDate": "2019-06-28",
+    "city": "Darmstadt",
+    "country": "Germany",
+    "twitter": "@enterjsconf",
+    "cfpUrl": "https://www.enterjs.de/call-for-proposals-en",
+    "cfpEndDate": "2019-01-14"
+  },
+  {
+    "name": "Smashing Conference",
+    "url": "https://smashingconf.com/toronto-2019/",
+    "startDate": "2019-06-25",
+    "endDate": "2019-06-26",
+    "city": "Toronto",
+    "country": "Canada",
+    "twitter": "@smashingconf"
+  },
+  {
+    "name": "ngSpain",
+    "url": "https://www.ngspain.com",
+    "startDate": "2019-06-28",
+    "endDate": "2019-06-30",
+    "city": "Madrid",
+    "country": "Spain",
+    "twitter": "@ngspain"
+  },
+  {
+    "name": "SAP UI5con Germany",
+    "url": "https://openui5.org/ui5con",
+    "startDate": "2019-06-28",
+    "endDate": "2019-06-28",
+    "city": "St. Leon-Rot",
+    "country": "Germany",
+    "twitter": "@ui5con",
+    "cfpUrl": "https://ui5concallforpapers.cfapps.eu10.hana.ondemand.com",
+    "cfpEndDate": "2019-03-18"
+  },
+  {
+    "name": "NG-MY",
+    "url": "https://2019.ng-my.org",
+    "startDate": "2019-07-06",
+    "endDate": "2019-07-07",
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "twitter": "@ngmyconf",
+    "cfpUrl": "https://2019.ng-my.org/form/call-for-presenters",
+    "cfpEndDate": "2019-03-17"
+  },
+  {
+    "name": "JAMstack_conf_london",
+    "url": "https://jamstackconf.com/london",
+    "startDate": "2019-07-09",
+    "endDate": "2019-07-10",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@jamstackconf"
+  },
+  {
+    "name": "FullStack London",
+    "url": "https://skillsmatter.com/conferences/11213-fullstack-london-2019-the-conference-on-javascript-node-and-internet-of-things",
+    "startDate": "2019-07-10",
+    "endDate": "2019-07-12",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@skillsmatter",
+    "cfpUrl": "https://skillsmatter.com/conferences/11213-fullstack-london-2019-the-conference-on-javascript-node-and-internet-of-things#get_involved",
+    "cfpEndDate": "2019-02-28"
+  },
+  {
+    "name": "Chain React",
+    "url": "https://infinite.red/ChainReactConf",
+    "startDate": "2019-07-11",
+    "endDate": "2019-07-12",
+    "twitter": "@ChainReactConf",
+    "city": "Portland, OR",
+    "country": "U.S.A.",
+    "cfpUrl": "https://sessionize.com/chain-react-2019",
+    "cfpEndDate": "2019-03-01"
+  },
+  {
+    "name": "ng-japan",
+    "url": "https://ngjapan.org",
+    "startDate": "2019-07-13",
+    "endDate": "2019-07-13",
+    "city": "Tokyo",
+    "country": "Japan",
+    "twitter": "@ng_japan",
+    "cfpUrl": "https://sessionize.com/ng-japan-2019",
+    "cfpEndDate": "2019-03-15"
+  },
+  {
+    "name": "Front In Sampa",
+    "url": "https://www.sympla.com.br/front-in-sampa-2019__413970",
+    "startDate": "2019-07-13",
+    "endDate": "2019-07-13",
+    "city": "São Paulo",
+    "country": "Brazil",
+    "twitter": "@frontinsp"
+  },
+  {
+    "name": "React Week '19",
+    "url": "http://reactweek.nyc",
+    "startDate": "2019-07-15",
+    "endDate": "2019-07-21",
+    "city": "New York",
+    "country": "U.S.A.",
+    "twitter": "@reactweek",
+    "cfpUrl": "http://fht.nyc/RW19CFP",
+    "cfpEndDate": "2019-04-15"
+  },
+  {
+    "name": "JSCamp Barcelona",
+    "url": "https://jscamp.tech",
+    "startDate": "2019-07-18",
+    "endDate": "2019-07-19",
+    "city": "Barcelona",
+    "country": "Spain",
+    "twitter": "@jscamp",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScqbsiSHtIsML2gmbSpiJG_j7Db4hesv-vSK52bu929C634TQ/viewform",
+    "cfpEndDate": "2019-03-24"
+  },
+  {
+    "name": "OdessaJS",
+    "url": "http://odessajs.org/",
+    "startDate": "2019-07-20",
+    "endDate": "2019-07-21",
+    "city": "Odessa",
+    "country": "Ukraine",
+    "twitter": "@OdessaJS",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeQqU4iM-vBx6VRWHQcE1zKh3LW4KZ5231Oe0dQx-neBrrc3g/viewform",
+    "cfpEndDate": "2019-03-30"
+  },
+  {
+    "name": "Swift India Conference",
+    "url": "https://swiftindia.in",
+    "startDate": "2019-07-28",
+    "endDate": "2019-07-28",
+    "city": "Bangalore",
+    "country": "India",
+    "twitter": "@swiftindiagroup"
+  },
+  {
+    "name": "Angular Denver",
+    "url": "https://angulardenver.com",
+    "startDate": "2019-08-01",
+    "endDate": "2019-08-02",
+    "city": "Denver, CO",
+    "country": "U.S.A.",
+    "twitter": "@angulardenver",
+    "cfpUrl": "https://angulardenver.com/cfp",
+    "cfpEndDate": "2019-04-01"
+  },
+  {
+    "name": "JavaScript and Friends Conference",
+    "url": "https://www.javascriptandfriends.com",
+    "startDate": "2019-08-02",
+    "endDate": "2019-08-02",
+    "city": "Columbus",
+    "country": "U.S.A.",
+    "twitter": "@JSFriendsConf",
+    "cfpUrl": "https://sessionize.com/javascript-and-friends-conference/",
+    "cfpEndDate": "2019-04-11"
+  },
+  {
+    "name": "DDD Perth",
+    "url": "https://dddperth.com",
+    "startDate": "2019-08-03",
+    "endDate": "2019-08-03",
+    "city": "Perth",
+    "country": "Australia",
+    "twitter": "@DDDPerth"
+  },
+  {
+    "name": "VinnytsiaJS",
+    "url": "http://vinnytsiajs.org",
+    "startDate": "2019-08-03",
+    "endDate": "2019-08-04",
+    "city": "Vinnytsia",
+    "country": "Ukraine",
+    "twitter": "@VinnytsiaJS"
+  },
+  {
+    "name": "The Rolling Scopes Conference",
+    "url": "https://rsconf.by",
+    "startDate": "2019-08-09",
+    "endDate": "2019-08-11",
+    "city": "Minsk",
+    "country": "Belarus",
+    "twitter": "@rollingscopes",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe1Mx_HLnAm09pB0ngzx_eCBJg29mzUdM0dLfE2BfhjdaCy6A/viewform",
+    "cfpEndDate": "2019-05-15"
+  },
+  {
+    "name": "NEJS CONF",
+    "url": "https://2019.nejsconf.com",
+    "startDate": "2019-08-09",
+    "endDate": "2019-08-09",
+    "city": "Omaha, NE",
+    "country": "U.S.A.",
+    "twitter": "@nejsconf",
+    "cfpUrl": "https://www.papercall.io/nejsconf-2019",
+    "cfpEndDate": "2019-05-17"
+  },
+  {
+    "name": "JSConf US",
+    "url": "https://2019.jsconf.us/",
+    "startDate": "2019-08-11",
+    "endDate": "2019-08-14",
+    "city": "Carlsbad, CA",
+    "country": "U.S.A.",
+    "twitter": "@jsconfus",
+    "cfpUrl": "https://2019.jsconf.us/call-for-proposals/",
+    "cfpEndDate": "2019-03-01"
+  },
+  {
+    "name": "JSday Feira de Santana",
+    "url": "http://fsa.jsday.com.br",
+    "startDate": "2019-08-17",
+    "endDate": "2019-08-17",
+    "city": "Feira De Santana",
+    "country": "Brazil",
+    "twitter": "@jsdaybr",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeK507aZmD5gLc7wQGjR9jShNzdMNwEzONK4PXnJ1Gll5uL5A/viewform",
+    "cfpEndDate": "2019-07-15"
+  },
+  {
+    "name": "Clarity",
+    "url": "https://www.clarityconf.com/2019",
+    "startDate": "2019-08-19",
+    "endDate": "2019-08-21",
+    "city": "San Fracisco, CA",
+    "country": "U.S.A.",
+    "twitter": "@clarity_conf"
+  },
+  {
+    "name": "BrazilJS",
+    "url": "https://braziljs.org",
+    "startDate": "2019-08-23",
+    "endDate": "2019-08-24",
+    "city": "Porto Alegre",
+    "country": "Brazil",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdpydtv5heYvykRwiH67bjRrCFxvPal9gMLZPovdsQuLqNhcQ/viewform",
+    "cfpEndDate": "2019-05-20"
+  },
+  {
+    "name": "HalfStack",
+    "url": "https://halfstackconf.com/newyork/",
+    "startDate": "2019-08-23",
+    "endDate": "2019-08-23",
+    "city": "New York",
+    "country": "U.S.A.",
+    "twitter": "@halfstackconf",
+    "cfpUrl": "https://halfstackconf.com/newyork/",
+    "cfpEndDate": "2019-05-30"
+  },
+  {
+    "name": "NG Bolivia",
+    "url": "https://ng-bolivia.org",
+    "startDate": "2019-08-23",
+    "endDate": "2019-08-24",
+    "city": "Cochabamba",
+    "country": "Bolivia",
+    "twitter": "@angularBolivia",
+    "cfpUrl": "https://ng-bolivia.org/blog/posts/call-4-speakers",
+    "cfpEndDate": "2019-06-14"
+  },
+  {
+    "name": "Web Summer Camp",
+    "url": "https://2019.websummercamp.com",
+    "startDate": "2019-08-28",
+    "endDate": "2019-08-30",
+    "city": "Rovinj",
+    "country": "Croatia",
+    "twitter": "@WebSummerCamp",
+    "cfpUrl": "https://sessionize.com/web-summer-camp-2019",
+    "cfpEndDate": "2019-04-30"
+  },
+  {
+    "name": "Frontend Conference Zurich",
+    "url": "https://www.frontendconf.ch",
+    "startDate": "2019-08-29",
+    "endDate": "2019-08-30",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "twitter": "@frontendconfch",
+    "cfpUrl": "https://frontendconf.ch/call-for-speakers",
+    "cfpEndDate": "2019-04-30"
+  },
+  {
+    "name": "NG-DE",
+    "url": "https://ng-de.org",
+    "startDate": "2019-08-30",
+    "endDate": "2019-08-31",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@ngdeconf"
+  },
+  {
+    "name": "JSFoo: VueDay",
+    "url": "https://jsfoo.in/2019-vueday/",
+    "startDate": "2019-08-30",
+    "endDate": "2019-08-30",
+    "city": "Bangalore",
+    "country": "India",
+    "twitter": "@jsfoo",
+    "cfpUrl": "https://hasgeek.com/jsfoo/2019-vueday",
+    "cfpEndDate": "2019-05-15"
+  },
+  {
+    "name": "JSConf Korea",
+    "url": "https://2019.jsconfkorea.com/en",
+    "startDate": "2019-09-03",
+    "endDate": "2019-09-03",
+    "city": "Seoul",
+    "country": "Korea",
+    "twitter": "@jsconfkorea",
+    "cfpUrl": "https://2019.jsconfkorea.com/en/call-for-proposals",
+    "cfpEndDate": "2019-04-26"
+  },
+  {
+    "name": "RxJS Live",
+    "url": "https://www.rxjs.live/",
+    "startDate": "2019-09-05",
+    "endDate": "2019-09-06",
+    "city": "Las Vegas, CA",
+    "country": "U.S.A.",
+    "cfpUrl": "https://forms.gle/C65gFn3gJLMUqjhL8",
+    "cfpEndDate": "2019-05-31"
+  },
+  {
+    "name": "React Native EU",
+    "url": "https://react-native.eu",
+    "startDate": "2019-09-05",
+    "endDate": "2019-09-06",
+    "city": "Wrocław",
+    "country": "Poland",
+    "twitter": "@react_native_eu",
+    "cfpEndDate": "2019-04-30"
+  },
+  {
+    "name": "ComponentsConf",
+    "url": "https://www.componentsconf.com.au",
+    "startDate": "2019-09-06",
+    "endDate": "2019-09-06",
+    "city": "Melbourne",
+    "country": "Australia",
+    "twitter": "@componentsConf",
+    "cfpUrl": "https://goo.gl/forms/wSXvPfR11VsdD3Ao2",
+    "cfpEndDate": "2019-04-06"
+  },
+  {
+    "name": "GrillJS",
+    "url": "https://grilljs.com",
+    "startDate": "2019-09-06",
+    "endDate": "2019-09-07",
+    "city": "Wrocław",
+    "country": "Poland",
+    "twitter": "@grill_js",
+    "cfpUrl": "https://grilljs.com/speakers",
+    "cfpEndDate": "2019-07-06"
+  },
+  {
+    "name": "PiterJS conf",
+    "url": "https://conf.piterjs.org",
+    "startDate": "2019-09-07",
+    "endDate": "2019-09-07",
+    "city": "Saint-Petersburg",
+    "country": "Russia",
+    "twitter": "@piterjs",
+    "cfpUrl": "https://conf.piterjs.org",
+    "cfpEndDate": "2019-08-12"
+  },
+  {
+    "name": "Smashing Conference",
+    "url": "https://smashingconf.com/freiburg-2019/",
+    "startDate": "2019-09-09",
+    "endDate": "2019-09-10",
+    "city": "Freiburg",
+    "country": "Germany",
+    "twitter": "@smashingconf"
+  },
+  {
+    "name": "React Day New York",
+    "url": "https://reactnewyork.com",
+    "startDate": "2019-09-13",
+    "endDate": "2019-09-13",
+    "city": "Brooklyn, NY",
+    "country": "U.S.A.",
+    "twitter": "@ReactNewYork",
+    "cfpUrl": "https://docs.google.com/forms/d/15SThD38259luba8YHUiWl5kKKH4xponZf9cl_GqgYbU/viewform"
+  },
+  {
+    "name": "React Live",
+    "url": "http://www.reactlive.nl",
+    "startDate": "2019-09-13",
+    "endDate": "2019-09-13",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@reactlivenl"
+  },
+  {
+    "name": "Chicago JSCamp",
+    "url": "https://www.chicagojscamp.org",
+    "startDate": "2019-09-14",
+    "endDate": "2019-09-14",
+    "city": "Chicago",
+    "country": "U.S.A.",
+    "twitter": "@chicago_js",
+    "cfpUrl": "https://www.papercall.io/chicagojs-conf-2019",
+    "cfpEndDate": "2019-07-01"
+  },
+  {
+    "name": "AngularConnect",
+    "url": "https://angularconnect.com",
+    "startDate": "2019-09-19",
+    "endDate": "2019-09-20",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@AngularConnect",
+    "cfpUrl": "https://angularconnect.com/cfp",
+    "cfpEndDate": "2019-03-25"
+  },
+  {
+    "name": "HalfStack",
+    "url": "https://halfstackconf.com/vienna/",
+    "startDate": "2019-09-19",
+    "endDate": "2019-09-19",
+    "city": "Vienna",
+    "country": "Austria",
+    "twitter": "@halfstackconf",
+    "cfpUrl": "https://halfstackconf.com/vienna/",
+    "cfpEndDate": "2019-06-15"
+  },
+  {
+    "name": "Armada JS",
+    "url": "https://www.armada-js.com",
+    "startDate": "2019-09-19",
+    "endDate": "2019-09-20",
+    "city": "Novi Sad",
+    "country": "Serbia",
+    "twitter": "@armada_js",
+    "cfpUrl": "https://www.armada-js.com/call-for-papers",
+    "cfpEndDate": "2019-07-01"
+  },
+  {
+    "name": "JSdayIE",
+    "url": "https://www.jsday.org",
+    "startDate": "2019-09-20",
+    "endDate": "2019-09-20",
+    "city": "Dublin",
+    "country": "Ireland",
+    "twitter": "@JSDayIE",
+    "cfpUrl": "https://www.jsday.org/cfp",
+    "cfpEndDate": "2019-04-15"
+  },
+  {
+    "name": "React Boston",
+    "url": "https://www.reactboston.com",
+    "startDate": "2019-09-21",
+    "endDate": "2019-09-22",
+    "city": "Boston, MA",
+    "country": "U.S.A.",
+    "twitter": "@ReactBoston",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdx4L2_iKZ7VEsWJHJmz0XpDGfYJzNHG4KB2Bhnpraov20fjw/viewform",
+    "cfpEndDate": "2019-07-01"
+  },
+  {
+    "name": "JSCamp Romania",
+    "url": "http://www.jscamp.ro",
+    "startDate": "2019-09-24",
+    "endDate": "2019-09-24",
+    "city": "Bucharest",
+    "country": "Romania",
+    "twitter": "@jscampro"
+  },
+  {
+    "name": "React India",
+    "url": "https://www.reactindia.io/",
+    "startDate": "2019-09-26",
+    "endDate": "2019-09-28",
+    "city": "Goa",
+    "country": "India",
+    "twitter": "@react_india",
+    "cfpUrl": "https://docs.google.com/forms/d/1-OLrzL6CEx075V7aX6uUaWH1clr29qnf6OQMmYT2VsU/viewform?edit_requested=true",
+    "cfpEndDate": "2019-05-25"
+  },
+  {
+    "name": "JSConf Budapest",
+    "url": "https://jsconfbp.com/",
+    "startDate": "2019-09-26",
+    "endDate": "2019-09-27",
+    "city": "Budapest",
+    "country": "Hungary",
+    "twitter": "@jsconfbp",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeox5OTuhXmrLXhWtLAcj4AFfpKj9kiv0B17A1rhEU0Qy3xrQ/viewform",
+    "cfpEndDate": "2019-02-28"
+  },
+  {
+    "name": "Heapcon",
+    "url": "https://heapcon.io",
+    "startDate": "2019-09-26",
+    "endDate": "2019-09-27",
+    "city": "Belgrade",
+    "country": "Serbia",
+    "twitter": "@Heapconf",
+    "cfpUrl": "https://heapcon.io/call-for-papers",
+    "cfpEndDate": "2019-05-15"
+  },
+  {
+    "name": "React Alicante",
+    "url": "http://reactalicante.es",
+    "startDate": "2019-09-26",
+    "endDate": "2019-09-28",
+    "city": "Alicante",
+    "country": "Spain",
+    "twitter": "@reactalicante"
+  },
+  {
+    "name": "NodeJs Day",
+    "url": "https://2019.nodejsday.it",
+    "startDate": "2019-09-27",
+    "endDate": "2019-09-27",
+    "city": "Verona",
+    "country": "Italy",
+    "twitter": "@nodejsconfit",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScsu4TMS_5oo5jR-YaxqOvMEUJ2X5iCI-fIJCVfd74kzOGzvw/viewform",
+    "cfpEndDate": "2019-06-01"
+  },
+  {
+    "name": "GraphQL Hong Kong",
+    "url": "https://graphql-hongkong.org",
+    "startDate": "2019-09-30",
+    "endDate": "2019-09-30",
+    "city": "Hong Kong",
+    "country": "Hong Kong",
+    "twitter": "@GraphQLHongKong"
+  },
+  {
+    "name": "Intersection",
+    "url": "https://intersection-conference.eu",
+    "startDate": "2019-10-01",
+    "endDate": "2019-10-02",
+    "city": "Milan",
+    "country": "Italy",
+    "twitter": "@Intersection_eu",
+    "cfpUrl": "https://intersection-conference.eu/call-for-speakers",
+    "cfpEndDate": "2019-04-05"
+  },
+  {
+    "name": "revo.js",
+    "url": "https://revojs.ro",
+    "startDate": "2019-10-03",
+    "endDate": "2019-10-04",
+    "city": "Timisoara",
+    "country": "Romania",
+    "twitter": "@revojsro",
+    "cfpUrl": "https://revojs.ro/cfp/",
+    "cfpEndDate": "2019-06-17"
+  },
+  {
+    "name": "Vue.js London",
+    "url": "https://vuejs.london",
+    "startDate": "2019-10-04",
+    "endDate": "2019-10-05",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@vue_london",
+    "cfpUrl": "https://vuejs.london/cfp",
+    "cfpEndDate": "2019-07-02"
+  },
+  {
+    "name": "reactjsday",
+    "url": "https://2019.reactjsday.it",
+    "startDate": "2019-10-04",
+    "endDate": "2019-10-04",
+    "city": "Verona",
+    "country": "Italy",
+    "twitter": "@reactjsday",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSd66978kStFzF6xlquq-BxbgOf1pPizT0V5Rd4Uc3Qf0U8Nrg/viewform",
+    "cfpEndDate": "2019-07-01"
+  },
+  {
+    "name": "Caribbean Developers Conference",
+    "url": "https://cdc.dev",
+    "startDate": "2019-10-04",
+    "endDate": "2019-10-05",
+    "city": "Punta Cana",
+    "country": "Dominican Republic",
+    "twitter": "@caribbeandevcon",
+    "cfpUrl": "https://sessionize.com/cdc",
+    "cfpEndDate": "2019-08-31"
+  },
+  {
+    "name": "KharkivJS",
+    "url": "https://kharkivjs.org",
+    "startDate": "2019-10-05",
+    "endDate": "2019-10-06",
+    "city": "Kharkiv",
+    "country": "Ukraine",
+    "twitter": "@kharkivjs",
+    "cfpUrl": "https://docs.google.com/forms/d/1Mti6URPiXbPH4eNHY64m_JXaosfm6n3a2hNiLyd0IV0/edit",
+    "cfpEndDate": "2019-07-01"
+  },
+  {
+    "name": "RuhrJS",
+    "url": "https://ruhrjs.de",
+    "startDate": "2019-10-05",
+    "endDate": "2019-10-06",
+    "city": "Bochum",
+    "country": "Germany",
+    "twitter": "@RuhrJS"
+  },
+  {
+    "name": "NG Rome MMXIX",
+    "url": "https://ngrome.io/home",
+    "startDate": "2019-10-07",
+    "endDate": "2019-10-07",
+    "city": "Rome",
+    "country": "Italy",
+    "twitter": "@ngromeconf"
+  },
+  {
+    "name": "JavaScript Days",
+    "url": "https://javascript-days.de",
+    "startDate": "2019-10-07",
+    "endDate": "2019-10-10",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@JS_Days"
+  },
+  {
+    "name": "Angular Days",
+    "url": "https://javascript-days.de/angular",
+    "startDate": "2019-10-07",
+    "endDate": "2019-10-10",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@AngularDays"
+  },
+  {
+    "name": "React Days",
+    "url": "https://javascript-days.de/react",
+    "startDate": "2019-10-07",
+    "endDate": "2019-10-10",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@React_Days"
+  },
+  {
+    "name": "HTML & CSS Days",
+    "url": "https://javascript-days.de/html-css",
+    "startDate": "2019-10-07",
+    "endDate": "2019-10-10",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@htmlcssdays"
+  },
+  {
+    "name": "ReasonConf",
+    "url": "https://www.reason-conf.us",
+    "startDate": "2019-10-08",
+    "endDate": "2019-10-09",
+    "city": "Chicago, IL",
+    "country": "U.S.A.",
+    "twitter": "@reasonconf",
+    "cfpUrl": "https://www.papercall.io/chicagojs-conf-2019",
+    "cfpEndDate": "2019-07-01"
+  },
+  {
+    "name": "Nordic.js",
+    "url": "http://nordicjs.com",
+    "startDate": "2019-10-10",
+    "endDate": "2019-10-11",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "twitter": "@nordicjs",
+    "cfpUrl": "http://nordicjs.com/call-for-speakers"
+  },
+  {
+    "name": "TSConf",
+    "url": "https://tsconf.io/",
+    "startDate": "2019-10-11",
+    "endDate": "2019-10-11",
+    "city": "Seattle, WA",
+    "country": "U.S.A.",
+    "twitter": "@typescriptconf",
+    "cfpUrl": "https://tsconf.io/present.html",
+    "cfpEndDate": "2019-04-30"
+  },
+  {
+    "name": "Vue Fes Japan",
+    "url": "https://vuefes.jp/2019/",
+    "startDate": "2019-10-12",
+    "endDate": "2019-10-12",
+    "city": "Tokyo",
+    "country": "Japan",
+    "twitter": "@vuefes"
+  },
+  {
+    "name": "API Conference",
+    "url": "https://apiconference.net",
+    "startDate": "2019-10-14",
+    "endDate": "2019-10-16",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@api_conference"
+  },
+  {
+    "name": "Smashing Conference",
+    "url": "https://smashingconf.com/ny-2019/",
+    "startDate": "2019-10-15",
+    "endDate": "2019-10-16",
+    "city": "New York",
+    "country": "U.S.A.",
+    "twitter": "@smashingconf"
+  },
+  {
+    "name": "CONNECT.TECH",
+    "url": "http://connect.tech",
+    "startDate": "2019-10-16",
+    "endDate": "2019-10-18",
+    "city": "Atlanta",
+    "country": "U.S.A.",
+    "twitter": "@connect_js",
+    "cfpUrl": "http://connect.tech/cfp",
+    "cfpEndDate": "2019-05-01"
+  },
+  {
+    "name": "JAMstack_conf_sf",
+    "url": "https://jamstackconf.com/sf/",
+    "startDate": "2019-10-16",
+    "endDate": "2019-10-18",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "twitter": "@jamstackconf"
+  },
+  {
+    "name": "Ember{{Fest}}",
+    "url": "http://emberfest.eu",
+    "startDate": "2019-10-17",
+    "endDate": "2019-10-18",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "twitter": "@emberfest"
+  },
+  {
+    "name": "JSConf",
+    "url": "https://jsconf.co",
+    "startDate": "2019-10-18",
+    "endDate": "2019-10-19",
+    "city": "Medellín",
+    "country": "Colombia",
+    "twitter": "@jsconfco",
+    "cfpUrl": "https://sessionize.com/jsconf-colombia-2019",
+    "cfpEndDate": "2019-06-16"
+  },
+  {
+    "name": "ngSpain",
+    "url": "https://ngspain.com",
+    "startDate": "2019-10-18",
+    "endDate": "2019-10-20",
+    "city": "Madrid",
+    "country": "Spain",
+    "twitter": "@ngspain"
+  },
+  {
+    "name": "React Conf Brasil",
+    "url": "https://reactconf.com.br",
+    "startDate": "2019-10-19",
+    "endDate": "2019-10-19",
+    "city": "São Paulo",
+    "country": "Brasil",
+    "twitter": "@reactconfbr"
+  },
+  {
+    "name": "International JavaScript Conference",
+    "url": "https://javascript-conference.com",
+    "startDate": "2019-10-21",
+    "endDate": "2019-10-25",
+    "city": "Munich",
+    "country": "Germany",
+    "twitter": "@JavaScriptCon"
+  },
+  {
+    "name": "ThunderPlains",
+    "url": "https://2019.thunderplainsconf.com",
+    "startDate": "2019-10-22",
+    "endDate": "2019-10-22",
+    "city": "Oklahoma City, OK",
+    "country": "U.S.A.",
+    "twitter": "@thunderplains"
+  },
+  {
+    "name": "LibertyJS",
+    "url": "https://libertyjs.com",
+    "startDate": "2019-10-24",
+    "endDate": "2019-10-25",
+    "city": "Philadelphia",
+    "country": "U.S.A.",
+    "twitter": "@liberty_js"
+  },
+  {
+    "name": "React Conf",
+    "url": "http://conf.reactjs.org",
+    "startDate": "2019-10-24",
+    "endDate": "2019-10-25",
+    "city": "Henderson",
+    "country": "U.S.A.",
+    "twitter": "@reactjs"
+  },
+  {
+    "name": "Script'19",
+    "url": "https://scriptconf.org",
+    "startDate": "2019-10-25",
+    "endDate": "2019-10-25",
+    "city": "Linz",
+    "country": "Austria",
+    "twitter": "@scriptconf"
+  },
+  {
+    "name": "React Advanced London",
+    "url": "https://reactadvanced.com",
+    "startDate": "2019-10-25",
+    "endDate": "2019-10-25",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@ReactAdvanced",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdDIUc7RHqGAudxC8EuXrbSN8ZCTXTYnMf34qDj9u1IEsID_A/viewform",
+    "cfpEndDate": "2019-07-12"
+  },
+  {
+    "name": "vuecamp",
+    "url": "https://vuecamp.de/",
+    "startDate": "2019-10-26",
+    "endDate": "2019-11-27",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@VueCamp_de"
+  },
+  {
+    "name": "FEConf",
+    "url": "https://2019.feconf.kr/",
+    "startDate": "2019-10-26",
+    "endDate": "2019-11-26",
+    "city": "Seoul",
+    "country": "Korea",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfrp8ZbPTqiKDHSFs8e3STLvn1ZHLKGJliY1NPc8pnPhZdT7Q/viewform",
+    "cfpEndDate": "2019-07-31"
+  },
+  {
+    "name": "JSDC",
+    "url": "https://2019.jsdc.tw",
+    "startDate": "2019-10-26",
+    "endDate": "2019-10-26",
+    "city": "Taiwan",
+    "country": "Taipei",
+    "twitter": "@jsdc_tw"
+  },
+  {
+    "name": "ReactiveConf",
+    "url": "https://reactiveconf.com",
+    "startDate": "2019-10-30",
+    "endDate": "2019-11-01",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "twitter": "@ReactiveConf"
+  },
+  {
+    "name": "ITNEXT Summit",
+    "url": "https://itnextsummit.com",
+    "startDate": "2019-10-30",
+    "endDate": "2019-10-30",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@ITNEXT_io",
+    "cfpUrl": "https://sessionize.com/itnext-summit-2019",
+    "cfpEndDate": "2019-05-01"
+  },
+  {
+    "name": "Web Directions Summit",
+    "url": "https://www.webdirections.org/wds",
+    "startDate": "2019-10-31",
+    "endDate": "2019-11-01",
+    "city": "Sydney",
+    "country": "Australia",
+    "twitter": "@webdirections",
+    "cfpUrl": "https://www.webdirections.org/speaking",
+    "cfpEndDate": "2019-06-30"
+  },
+  {
+    "name": "CascadiaJS",
+    "url": "https://2019.cascadiajs.com",
+    "startDate": "2019-11-07",
+    "endDate": "2019-11-08",
+    "city": "Seattle",
+    "country": "U.S.A.",
+    "twitter": "@cascadiajs",
+    "cfpUrl": "https://2019.cascadiajs.com/cfp",
+    "cfpEndDate": "2019-06-30"
+  },
+  {
+    "name": "JS Day Canarias",
+    "url": "https://jsdaycanarias.com",
+    "startDate": "2019-11-08",
+    "endDate": "2019-11-09",
+    "city": "Canarias",
+    "country": "Spain",
+    "twitter": "@canariasjs",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdhBUYjk_rBch1zQh5lWotYInFM6pFkvNzwNVoyM6gYiRzdbQ/viewform"
+  },
+  {
+    "name": "HolyJS",
+    "url": "https://holyjs.ru/en",
+    "startDate": "2019-11-08",
+    "endDate": "2019-11-09",
+    "city": "Moscow",
+    "country": "Russia",
+    "twitter": "@HolyJSconf",
+    "cfpUrl": "https://holyjs-moscow.ru/en/callforpapers",
+    "cfpEndDate": "2019-08-29"
+  },
+  {
+    "name": "JS Fest",
+    "url": "http://jsfest.com.ua",
+    "startDate": "2019-11-08",
+    "endDate": "2019-11-09",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "cfpUrl": "http://jsfest.com.ua/speakers_eng.html",
+    "cfpEndDate": "2019-10-01"
+  },
+  {
+    "name": "NodeConf.EU",
+    "url": "https://www.nodeconf.eu",
+    "startDate": "2019-11-10",
+    "endDate": "2019-11-13",
+    "city": "Kilkenny",
+    "country": "Ireland",
+    "twitter": "@NodeConfEU"
+  },
+  {
+    "name": "VueConfTO",
+    "url": "https://vuetoronto.com",
+    "startDate": "2019-11-11",
+    "endDate": "2019-11-12",
+    "city": "Toronto",
+    "country": "Canada",
+    "twitter": "@VueToronto"
+  },
+  {
+    "name": "jsMobileConf",
+    "url": "https://jsmobileconf.com",
+    "startDate": "2019-11-12",
+    "endDate": "2019-11-13",
+    "city": "Boston",
+    "country": "U.S.A.",
+    "twitter": "@ProgressSW"
+  },
+  {
+    "name": "Big Data LDN",
+    "url": "https://bigdataldn.com",
+    "startDate": "2019-11-13",
+    "endDate": "2019-11-14",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@bigdata_ldn"
+  },
+  {
+    "name": "Frontmania",
+    "url": "https://frontmania.com",
+    "startDate": "2019-11-15",
+    "endDate": "2019-11-15",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "twitter": "@frontmania"
+  },
+  {
+    "name": "RVA JavaScript Conf",
+    "url": "https://www.rvajavascript.com",
+    "startDate": "2019-11-15",
+    "endDate": "2019-11-15",
+    "city": "Richmond, VA",
+    "country": "U.S.A.",
+    "twitter": "@rvajavascript",
+    "cfpUrl": "https://www.papercall.io/rvajavascript2019",
+    "cfpEndDate": "2019-08-01"
+  },
+  {
+    "name": "ngPoland",
+    "url": "https://ng-poland.pl",
+    "startDate": "2019-11-21",
+    "endDate": "2019-11-21",
+    "city": "Warsaw",
+    "country": "Poland",
+    "twitter": "@ngPolandConf",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeVsK-OA9HudBjk7CpkKNCK8M_DD4_DF-AsFLAP8wdHeZ3O-g/viewform",
+    "cfpEndDate": "2019-09-30"
+  },
+  {
+    "name": "performance.now()",
+    "url": "https://perfnow.nl",
+    "startDate": "2019-11-21",
+    "endDate": "2019-11-22",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@perfnowconf"
+  },
+  {
+    "name": "JS Poland",
+    "url": "https://js-poland.pl",
+    "startDate": "2019-11-22",
+    "endDate": "2019-11-22",
+    "city": "Warsaw",
+    "country": "Poland",
+    "twitter": "@ngPolandConf",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeVsK-OA9HudBjk7CpkKNCK8M_DD4_DF-AsFLAP8wdHeZ3O-g/viewform",
+    "cfpEndDate": "2019-09-30"
+  },
+  {
+    "name": "HalfStack",
+    "url": "https://halfstackconf.com/london/",
+    "startDate": "2019-11-22",
+    "endDate": "2019-11-22",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@halfstackconf",
+    "cfpUrl": "https://halfstackconf.com/london/",
+    "cfpEndDate": "2019-06-15"
+  },
+  {
+    "name": "ColdFront",
+    "url": "https://2019.coldfront.co",
+    "startDate": "2019-11-26",
+    "endDate": "2019-11-28",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "twitter": "@coldfrontconf"
+  },
+  {
+    "name": "FRONTEND CON",
+    "url": "https://frontend-con.io",
+    "startDate": "2019-11-26",
+    "endDate": "2019-11-27",
+    "city": "Warsaw",
+    "country": "Poland",
+    "twitter": "@FrontEndConnect",
+    "cfpUrl": "https://goo.gl/forms/V13IzNhrB7IMBiuA2",
+    "cfpEndDate": "2019-06-05"
+  },
+  {
+    "name": "jsconf.jp",
+    "url": "https://www.jsconf.jp",
+    "startDate": "2019-11-30",
+    "endDate": "2019-12-01",
+    "city": "Tokyo",
+    "country": "Japan",
+    "twitter": "@jsconfjp",
+    "cfpUrl": "https://www.jsconf.jp/#h.p_wxinRgkOlNtJ",
+    "cfpEndDate": "2019-08-30"
+  },
+  {
+    "name": "JS Conf Armenia",
+    "url": "https://jsconf.am",
+    "startDate": "2019-11-30",
+    "endDate": "2019-11-30",
+    "city": "Yerevan",
+    "country": "Armenia",
+    "twitter": "@JSConfAM",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScfpcg2SvaEuoqcZEPzAmuwG8-bI1SxRbcoCytxzeOruCOZlA/viewform",
+    "cfpEndDate": "2019-10-17"
+  },
+  {
+    "name": "dotJS",
+    "url": "https://2019.dotjs.io",
+    "startDate": "2019-12-05",
+    "endDate": "2019-12-06",
+    "city": "Paris",
+    "country": "France",
+    "twitter": "@dotJS",
+    "affiliateText": "10% off with promocode: CONFSTECH",
+    "affiliateUrl": "https://2019.dotjs.io/tickets?promocode=CONFSTECH"
+  },
+  {
+    "name": "React Day Berlin",
+    "url": "https://reactday.berlin",
+    "startDate": "2019-12-06",
+    "endDate": "2019-12-06",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@reactdayberlin",
+    "cfpUrl": "https://forms.gle/AgMTgshXsNuNACCN7",
+    "cfpEndDate": "2019-08-31"
+  },
+  {
+    "name": "NationJS Frontrunners React Day",
+    "url": "http://nationjs.com",
+    "startDate": "2019-12-06",
+    "endDate": "2019-12-06",
+    "city": "Washington, DC",
+    "country": "U.S.A.",
+    "twitter": "@nationjs",
+    "cfpUrl": "https://www.papercall.io/frontrunners-react-2019",
+    "cfpEndDate": "2019-10-18"
+  },
+  {
+    "name": "ConFrontJS",
+    "url": "https://confrontjs.com",
+    "startDate": "2019-12-07",
+    "endDate": "2019-12-07",
+    "city": "Warsaw",
+    "country": "Poland",
+    "twitter": "@confrontjs",
+    "cfpUrl": "https://forms.gle/wVUKK5HbUEC6S9CD9",
+    "cfpEndDate": "2019-11-01"
+  },
+  {
+    "name": "NodeJSInteractive",
+    "url": "https://events.linuxfoundation.org/events/nodejs-interactive-2019/register",
+    "startDate": "2019-12-11",
+    "endDate": "2019-12-12",
+    "city": "Montréal",
+    "country": "Canada",
+    "twitter": "@linuxfoundation"
+  },
+  {
+    "name": "D2 Front-end Technology Forum",
+    "url": "http://d2forum.alibaba-inc.com",
+    "startDate": "2019-12-14",
+    "endDate": "2019-12-14",
+    "city": "Hangzhou",
+    "country": "China"
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "name": "RubyConf",
+    "url": "http://rubyconfindia.org",
+    "startDate": "2019-01-20",
+    "endDate": "2019-01-21",
+    "city": "Goa",
+    "country": "India",
+    "twitter": "@rubyconfindia"
+  },
+  {
+    "name": "RubyConf AU",
+    "url": "https://rubyconf.org.au/2019",
+    "startDate": "2019-02-07",
+    "endDate": "2019-02-09",
+    "city": "Melbourne",
+    "country": "Australia",
+    "twitter": "@rubyconf_au",
+    "cfpUrl": "https://www.papercall.io/rubyconf-au-2019",
+    "cfpEndDate": "2018-10-15"
+  },
+  {
+    "name": "Rubyfuza & Friends",
+    "url": "https://www.rubyfuza.org",
+    "startDate": "2019-02-07",
+    "endDate": "2019-02-08",
+    "city": "Cape Town",
+    "country": "South Africa",
+    "twitter": "@rubyfuza",
+    "cfpUrl": "https://www.papercall.io/rubyfuza",
+    "cfpEndDate": "2018-12-15"
+  },
+  {
+    "name": "Ruby On Ice",
+    "url": "https://rubyonice.com",
+    "startDate": "2019-02-22",
+    "endDate": "2019-02-24",
+    "city": "Tegernsee",
+    "country": "Germany",
+    "twitter": "@rubyoniceconf",
+    "cfpUrl": "https://rubyonice.com/",
+    "cfpEndDate": "2018-10-19"
+  },
+  {
+    "name": "wroc_love.rb",
+    "url": "https://wrocloverb.com",
+    "startDate": "2019-03-22",
+    "endDate": "2019-03-24",
+    "city": "Wrocław",
+    "country": "Poland",
+    "twitter": "@ wrocloverb",
+    "cfpUrl": "https://wrocloverb.com",
+    "cfpEndDate": "2019-01-31"
+  },
+  {
+    "name": "Ruby Hack",
+    "url": "https://rubyhack.com",
+    "startDate": "2019-04-04",
+    "endDate": "2019-04-05",
+    "city": "Sandy, UT",
+    "country": "U.S.A.",
+    "twitter": "@rubyhack",
+    "cfpEndDate": "2018-12-31"
+  },
+  {
+    "name": "Rails Camp South",
+    "url": "https://us-south.rails.camp",
+    "startDate": "2019-04-05",
+    "endDate": "2019-04-08",
+    "city": "Bandera, TX",
+    "country": "U.S.A.",
+    "twitter": "@railscampsouth"
+  },
+  {
+    "name": "RubyConfBY",
+    "url": "https://rubyconference.by",
+    "startDate": "2019-04-06",
+    "endDate": "2019-04-06",
+    "city": "Minsk",
+    "country": "Belarus",
+    "twitter": "@rubyconfby",
+    "cfpUrl": "https://www.papercall.io/rubyconfby",
+    "cfpEndDate": "2019-02-24"
+  },
+  {
+    "name": "Ruby Kaigi",
+    "url": "https://rubykaigi.org/2019",
+    "startDate": "2019-04-18",
+    "endDate": "2019-04-20",
+    "city": "Fukuoka",
+    "country": "Japan",
+    "twitter": "@RubyKaigi"
+  },
+  {
+    "name": "RailsConf",
+    "url": "http://railsconf.com/",
+    "startDate": "2019-04-30",
+    "endDate": "2019-05-02",
+    "city": "Minneapolis, MN",
+    "country": "U.S.A.",
+    "twitter": "@railsconf"
+  },
+  {
+    "name": "krk.rb",
+    "url": "https://krk-rb.pl",
+    "startDate": "2019-05-14",
+    "endDate": "2019-05-15",
+    "city": "Cracow",
+    "country": "Poland"
+  },
+  {
+    "name": "Balkan Ruby",
+    "url": "https://balkanruby.com",
+    "startDate": "2019-05-17",
+    "endDate": "2019-05-18",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "twitter": "@balkanruby"
+  },
+  {
+    "name": "Ruby Unconf Hamburg",
+    "url": "http://rubyunconf.eu",
+    "startDate": "2019-05-25",
+    "endDate": "2019-05-26",
+    "city": "Hamburg",
+    "country": "Germany",
+    "twitter": "@RubyUnconfEU"
+  },
+  {
+    "name": "Saint P Rubyconf",
+    "url": "https://spbrubyconf.ru",
+    "startDate": "2019-06-01",
+    "endDate": "2019-06-02",
+    "city": "Saint Petersburg",
+    "country": "Russia",
+    "twitter": "@saintprug"
+  },
+  {
+    "name": "Euruko",
+    "url": "https://euruko2019.org",
+    "startDate": "2019-06-21",
+    "endDate": "2019-06-22",
+    "city": "Rotterdam",
+    "country": "Netherlands",
+    "twitter": "@euruko",
+    "cfpUrl": "https://www.papercall.io/euruko2019",
+    "cfpEndDate": "2019-02-28"
+  },
+  {
+    "name": "Brighton Ruby",
+    "url": "https://brightonruby.com",
+    "startDate": "2019-07-05",
+    "endDate": "2019-07-05",
+    "city": "Brighton",
+    "country": "U.K.",
+    "twitter": "@brightonruby"
+  },
+  {
+    "name": "RubyConf Taiwan",
+    "url": "https://2019.rubyconf.tw",
+    "startDate": "2019-07-26",
+    "endDate": "2019-07-27",
+    "city": "Taipei",
+    "country": "Taiwan",
+    "twitter": "@rubyconftw",
+    "cfpUrl": "https://cfp.rubyconf.tw/activities/2019",
+    "cfpEndDate": "2019-04-25"
+  },
+  {
+    "name": "Southeast Ruby",
+    "url": "https://southeastruby.com",
+    "startDate": "2019-08-01",
+    "endDate": "2019-08-02",
+    "city": "Nashville, TN",
+    "country": "U.S.A.",
+    "twitter": "@southeastruby"
+  },
+  {
+    "name": "GrillRB",
+    "url": "https://grillrb.com",
+    "startDate": "2019-08-31",
+    "endDate": "2019-09-01",
+    "city": "Wrocław",
+    "country": "Poland",
+    "twitter": "@grill_rb",
+    "cfpUrl": "https://grillrb.com/speakers",
+    "cfpEndDate": "2019-06-30"
+  },
+  {
+    "name": "Ruby Conference Thailand",
+    "url": "https://rubyconfth.com",
+    "startDate": "2019-09-06",
+    "endDate": "2019-09-07",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "twitter": "@rubyconfth",
+    "cfpUrl": "https://www.papercall.io/rubyconfth",
+    "cfpEndDate": "2019-06-09"
+  },
+  {
+    "name": "RubyC",
+    "url": "https://rubyc.eu",
+    "startDate": "2019-09-14",
+    "endDate": "2019-09-15",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "twitter": "@rubyc_eu",
+    "cfpUrl": "https://rubyc.eu/speakers/new",
+    "cfpEndDate": "2019-07-01"
+  },
+  {
+    "name": "Ruby Russia",
+    "url": "https://rubyrussia.club/en",
+    "startDate": "2019-09-28",
+    "endDate": "2019-09-28",
+    "city": "Moscow",
+    "country": "Russia",
+    "twitter": "@railsclub_ru",
+    "cfpUrl": "https://forms.gle/i8p2UDZksHvrEsxn9",
+    "cfpEndDate": "2019-08-09"
+  },
+  {
+    "name": "ACR",
+    "url": "https://www.ancientcityruby.com",
+    "startDate": "2019-10-03",
+    "endDate": "2019-10-04",
+    "city": "Jacksonville Beach",
+    "country": "U.S.A.",
+    "twitter": "@ancientcityruby",
+    "cfpUrl": "https://www.papercall.io/acr-2019",
+    "cfpEndDate": "2019-07-31"
+  },
+  {
+    "name": "SolidusConf",
+    "url": "https://conf.solidus.io",
+    "startDate": "2019-10-21",
+    "endDate": "2019-10-24",
+    "city": "Salt Lake City",
+    "country": "U.S.A.",
+    "twitter": "@solidusIO"
+  },
+  {
+    "name": "RubyConf",
+    "url": "https://rubyconf.org",
+    "startDate": "2019-11-18",
+    "endDate": "2019-11-20",
+    "city": "Nashville, TN",
+    "country": "U.S.A.",
+    "twitter": "@rubyconf"
+  },
+  {
+    "name": "RubyConf Brazil",
+    "url": "http://rubyconf.com.br",
+    "startDate": "2019-11-28",
+    "endDate": "2019-11-29",
+    "city": "Sao Paulo",
+    "country": "Brazil",
+    "twitter": "@rubyconfbr",
+    "cfpUrl": "https://callforpapers.locaweb.com.br/events/rubyconf-2019",
+    "cfpEndDate": "2019-10-07"
+  }
+]

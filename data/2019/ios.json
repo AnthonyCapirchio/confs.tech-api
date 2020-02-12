@@ -1,0 +1,325 @@
+[
+  {
+    "name": "iOS Conf SG",
+    "url": "http://iosconf.sg",
+    "startDate": "2019-01-18",
+    "endDate": "2019-01-19",
+    "city": "Singapore",
+    "country": "Singapore",
+    "twitter": "@iosconfsg",
+    "cfpUrl": "https://www.papercall.io/iosconfsg",
+    "cfpEndDate": "2018-10-15"
+  },
+  {
+    "name": "dotSwift",
+    "url": "https://www.dotswift.io/",
+    "startDate": "2019-01-28",
+    "endDate": "2019-01-28",
+    "city": "Paris",
+    "country": "France",
+    "twitter": "@dotSwift",
+    "cfpUrl": "https://goo.gl/forms/T4Z7rTy2RxfhUebd2",
+    "cfpEndDate": "2019-01-01"
+  },
+  {
+    "name": "FITC Amsterdam",
+    "url": "http://fitc.ca/event/am19/",
+    "startDate": "2019-02-18",
+    "endDate": "2019-02-19",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@fitc"
+  },
+  {
+    "name": "AppDevCon",
+    "url": "https://appdevcon.nl",
+    "startDate": "2019-03-12",
+    "endDate": "2019-03-15",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@AppdevconNL",
+    "cfpUrl": "https://appdevcon.nl/cfp/",
+    "cfpEndDate": "2018-12-21"
+  },
+  {
+    "name": "iOSCon",
+    "url": "http://ioscon.co.uk",
+    "startDate": "2019-03-21",
+    "endDate": "2019-03-22",
+    "city": "London",
+    "country": "U.K.",
+    "cfpUrl": "https://skillsmatter.com/conferences/10823-ioscon-2019-the-conference-for-ios-and-swift-developers#get_involved",
+    "cfpEndDate": "2018-11-26"
+  },
+  {
+    "name": "try! Swift Tokyo",
+    "url": "https://www.tryswift.co/events/2019/tokyo/en/",
+    "startDate": "2019-03-21",
+    "endDate": "2019-03-22",
+    "city": "Tokyo",
+    "country": "Japan",
+    "twitter": "@tryswiftconf"
+  },
+  {
+    "name": "CodeMobile",
+    "url": "http://www.codemobile.co.uk",
+    "startDate": "2019-04-01",
+    "endDate": "2019-04-04",
+    "city": "Chester",
+    "country": "U.K.",
+    "twitter": "@codemobileuk",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdf9uZoBzmfv-oCN0povGPNK3kFKNb5MIvThZd8QH-dVnuQzQ/viewform",
+    "cfpEndDate": "2018-10-31"
+  },
+  {
+    "name": "Swift by Midwest",
+    "url": "https://swiftbymidwest.com",
+    "startDate": "2019-04-17",
+    "endDate": "2019-04-18",
+    "city": "Chicago, IL",
+    "country": "U.S.A.",
+    "twitter": "@SwiftByX"
+  },
+  {
+    "name": "FITC Toronto",
+    "url": "http://fitc.ca/event/to19/",
+    "startDate": "2019-04-21",
+    "endDate": "2019-04-23",
+    "city": "Toronto",
+    "country": "Canada",
+    "twitter": "@fitc"
+  },
+  {
+    "name": "NSNorth",
+    "url": "https://nsnorth.ca",
+    "startDate": "2019-04-26",
+    "endDate": "2019-04-28",
+    "city": "Montréal",
+    "country": "Canada",
+    "twitter": "@nsnorth"
+  },
+  {
+    "name": "App Builders",
+    "url": "https://www.appbuilders.ch",
+    "startDate": "2019-04-29",
+    "endDate": "2019-04-30",
+    "city": "Lugano",
+    "country": "Switzerland",
+    "twitter": "@appbuilders_ch"
+  },
+  {
+    "name": "UIKonf",
+    "url": "https://uikonf.com",
+    "startDate": "2019-05-26",
+    "endDate": "2019-05-29",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@uikonf"
+  },
+  {
+    "name": "WWDC",
+    "url": "https://developer.apple.com/wwdc",
+    "startDate": "2019-06-03",
+    "endDate": "2019-06-07",
+    "city": "San Jose",
+    "country": "U.S.A."
+  },
+  {
+    "name": "SwiftAveiro",
+    "url": "https://www.swiftaveiro.xyz",
+    "startDate": "2019-06-20",
+    "endDate": "2019-06-21",
+    "city": "Aveiro",
+    "country": "Portugal",
+    "twitter": "@SwiftAveiro"
+  },
+  {
+    "name": "ADDC - App Design & Development Conference",
+    "url": "https://addconf.com",
+    "startDate": "2019-06-26",
+    "endDate": "2019-06-28",
+    "city": "Barcelona",
+    "country": "Spain",
+    "twitter": "@addconf"
+  },
+  {
+    "name": "Swift Island",
+    "url": "https://swiftisland.nl",
+    "startDate": "2019-07-03",
+    "endDate": "2019-07-04",
+    "city": "Texel",
+    "country": "Netherlands",
+    "twitter": "@swiftislandnl"
+  },
+  {
+    "name": "Hacking with Swift: Live!",
+    "url": "https://www.hackingwithswift.com/live",
+    "startDate": "2019-07-08",
+    "endDate": "2019-07-09",
+    "city": "Bath",
+    "country": "U.K.",
+    "twitter": "@twostraws"
+  },
+  {
+    "name": "SwiftFest",
+    "url": "http://www.swiftfest.io",
+    "startDate": "2019-07-29",
+    "endDate": "2019-07-30",
+    "city": "Boston",
+    "country": "U.S.A.",
+    "twitter": "@theSwiftFest",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdqZDtFNAMnoO7Bsr9Xc4dyQAmkFZOXv0YioI-AHG50uLdlUw/viewform",
+    "cfpEndDate": "2019-05-31"
+  },
+  {
+    "name": "Swift TO",
+    "url": "https://swiftconf.to",
+    "startDate": "2019-08-13",
+    "endDate": "2019-08-13",
+    "city": "Toronto",
+    "country": "Canada",
+    "twitter": "@swiftconfto",
+    "cfpUrl": "https://www.papercall.io/swift-to",
+    "cfpEndDate": "2019-06-30"
+  },
+  {
+    "name": "360|iDev",
+    "url": "https://360idev.com",
+    "startDate": "2019-08-25",
+    "endDate": "2019-08-28",
+    "city": "Denver CO",
+    "country": "U.S.A.",
+    "twitter": "@360idev"
+  },
+  {
+    "name": "SwiftConf",
+    "url": "https://swiftconf.com",
+    "startDate": "2019-08-28",
+    "endDate": "2019-08-29",
+    "city": "Cologne",
+    "country": "Germany",
+    "twitter": "@swiftconf"
+  },
+  {
+    "name": "/dev/world",
+    "url": "http://www.devworld.com.au",
+    "startDate": "2019-09-02",
+    "endDate": "2019-09-04",
+    "city": "Melbourne",
+    "country": "Australia",
+    "twitter": "@AUC_ANZ",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfMy_CVigYeioDJ9mpoLX41TuVGbyDBmBrG-aqFAfX4ZlmENw/viewform",
+    "cfpEndDate": "2019-06-05"
+  },
+  {
+    "name": "try! Swift NYC",
+    "url": "https://www.tryswift.co/events/2019/nyc",
+    "startDate": "2019-09-09",
+    "endDate": "2019-09-10",
+    "city": "New York",
+    "country": "U.S.A.",
+    "twitter": "@tryswiftnyc",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdZGAKQLn8CmSz2dVkDzUUVTp3eV0I-7krx5VUnJQRy9FlDVQ/viewform?c=0&w=1"
+  },
+  {
+    "name": "iPlayground",
+    "url": "http://iplayground.io/2019",
+    "startDate": "2019-09-21",
+    "endDate": "2019-09-22",
+    "city": "Taipei",
+    "country": "Taiwan",
+    "twitter": "@theiPlayground",
+    "cfpUrl": "https://cfp.iplayground.io/events/iplayground_2019",
+    "cfpEndDate": "2019-08-10"
+  },
+  {
+    "name": "FrenchKit",
+    "url": "https://frenchkit.fr",
+    "startDate": "2019-10-07",
+    "endDate": "2019-10-08",
+    "city": "Paris",
+    "country": "France",
+    "twitter": "@FrenchKitConf",
+    "cfpUrl": "https://www.papercall.io/frenchkit-2019",
+    "cfpEndDate": "2019-06-21"
+  },
+  {
+    "name": "#Pragma Conference",
+    "url": "https://pragmaconference.com",
+    "startDate": "2019-10-09",
+    "endDate": "2019-10-11",
+    "city": "Bologna",
+    "country": "Italy",
+    "twitter": "@pragmamarkorg",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdoCMmd4XKceV6TJYaZ-0KK10RrsGbS_r1qh_14L_hOx-11kg/viewform",
+    "cfpEndDate": "2019-07-31"
+  },
+  {
+    "name": "SwiftUI Bootcamp",
+    "url": "https://www.devsassemble.com/one-day-swiftui-bootcamp-london",
+    "startDate": "2019-10-19",
+    "endDate": "2019-10-20",
+    "city": "London",
+    "country": "U.K."
+  },
+  {
+    "name": "Mobilization IX",
+    "url": "http://2019.mobilization.pl",
+    "startDate": "2019-10-26",
+    "endDate": "2019-10-26",
+    "city": "Łódź",
+    "country": "Poland",
+    "twitter": "@mobilizationpl",
+    "cfpUrl": "http://bit.ly/mobilization9-c4p-ct",
+    "cfpEndDate": "2019-07-13"
+  },
+  {
+    "name": "Mobile Era",
+    "url": "https://mobileera.rocks",
+    "startDate": "2019-11-07",
+    "endDate": "2019-11-08",
+    "city": "Oslo",
+    "country": "Norway",
+    "twitter": "@mobileeraconf",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc1jaV9hfpSz5Y-ZTvWhUMSgANaB2bSjzLG8_nYnNabbzB0mw/viewform"
+  },
+  {
+    "name": "Swift Heroes",
+    "url": "https://swiftheroes.com/2019/en",
+    "startDate": "2019-11-15",
+    "endDate": "2019-11-15",
+    "city": "Turin",
+    "country": "Italy",
+    "twitter": "@swiftheroes_it"
+  },
+  {
+    "name": "Swiftable",
+    "url": "https://swiftable.io",
+    "startDate": "2019-11-28",
+    "endDate": "2019-11-29",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "twitter": "@baswiftable",
+    "cfpUrl": "https://swiftable.io/call-for-papers/",
+    "cfpEndDate": "2019-07-01"
+  },
+  {
+    "name": "Swift Alps",
+    "url": "https://theswiftalps.com",
+    "startDate": "2019-11-28",
+    "endDate": "2019-11-29",
+    "city": "Crans-Montana",
+    "country": "Switzerland"
+  },
+  {
+    "name": "heise MacDev",
+    "url": "https://heise-macdev.de",
+    "startDate": "2019-12-03",
+    "endDate": "2019-12-05",
+    "city": "Karlsruhe",
+    "country": "Germany",
+    "twitter": "@heiseMacDev",
+    "cfpUrl": "https://heise-macdev.de/call_for_proposals.php",
+    "cfpEndDate": "2019-06-21"
+  }
+]

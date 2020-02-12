@@ -1,0 +1,60 @@
+[
+  {
+    "name": "EMPEX LA",
+    "url": "http://empex.co/la",
+    "startDate": "2019-02-02",
+    "endDate": "2019-02-02",
+    "city": "Los Angeles",
+    "country": "U.S.A.",
+    "twitter": "@empexco",
+    "cfpUrl": "https://docs.google.com/forms/d/1O39cq-CSRrgpZpY3uX7kJVl-4yu8dzt9WC7e0KstVaM/viewform?edit_requested=true",
+    "cfpEndDate": "2018-12-04"
+  },
+  {
+    "name": "Code BEAM SF",
+    "url": "https://codesync.global/conferences/code-beam-sf-2019",
+    "startDate": "2019-02-28",
+    "endDate": "2019-03-01",
+    "city": "San Francisco",
+    "country": "U.S.A.",
+    "twitter": "@CodeBEAMio"
+  },
+  {
+    "name": "ElixirConf EU",
+    "url": "http://www.elixirconf.eu",
+    "startDate": "2019-04-08",
+    "endDate": "2019-04-09",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "twitter": "@ElixirConfEU"
+  },
+  {
+    "name": "Code BEAM STO",
+    "url": "https://codesync.global/conferences/code-beam-sto-2019",
+    "startDate": "2019-05-16",
+    "endDate": "2019-05-17",
+    "city": "Stockholm",
+    "country": "Sweden",
+    "twitter": "@CodeBEAMio",
+    "cfpUrl": "https://codesync.global/conferences/code-beam-sto-2019/#call-for-proposals",
+    "cfpEndDate": "2019-02-13"
+  },
+  {
+    "name": "Code ELixir LDN",
+    "url": "https://codesync.global/conferences/code-elixir-ldn-2019",
+    "startDate": "2019-07-18",
+    "endDate": "2019-07-18",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@CodeElixirio"
+  },
+  {
+    "name": "The Big Elixir",
+    "url": "https://www.thebigelixir.com",
+    "startDate": "2019-11-07",
+    "endDate": "2019-11-08",
+    "city": "New Orleans, LA",
+    "country": "U.S.A.",
+    "twitter": "@thebigelixir"
+  }
+]

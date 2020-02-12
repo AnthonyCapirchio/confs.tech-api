@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Source Up!",
+    "url": "https://sourceup.co.za",
+    "startDate": "2019-03-11",
+    "endDate": "2019-03-12",
+    "city": "Cape Town ",
+    "country": "South Africa",
+    "twitter": "@letspixelup"
+  },
+  {
+    "name": "CSSConf China",
+    "url": "https://css.w3ctech.com",
+    "startDate": "2019-03-30",
+    "endDate": "2019-03-30",
+    "city": "Shenzhen",
+    "country": "China"
+  },
+  {
+    "name": "Smashing Conference",
+    "url": "https://smashingconf.com/sf-2019/",
+    "startDate": "2019-04-16",
+    "endDate": "2019-04-17",
+    "city": "San Francisco, CA",
+    "country": "U.S.A.",
+    "twitter": "@smashingconf"
+  },
+  {
+    "name": "Frontend United",
+    "url": "https://www.frontendunited.org",
+    "startDate": "2019-05-17",
+    "endDate": "2019-05-18",
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "twitter": "@frontendunited"
+  },
+  {
+    "name": "CSSConf EU",
+    "url": "https://2019.cssconf.eu",
+    "startDate": "2019-05-31",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@cssconfeu"
+  },
+  {
+    "name": "Pixel Pioneers",
+    "url": "https://pixelpioneers.co/events/bristol-2019",
+    "city": "Bristol",
+    "country": "U.K.",
+    "startDate": "2019-06-07",
+    "endDate": "2019-06-07",
+    "cfpUrl": "https://pixelpioneers.co/call-for-speakers"
+  },
+  {
+    "name": "CSS Day",
+    "url": "https://cssday.nl/2019",
+    "startDate": "2019-06-13",
+    "endDate": "2019-06-14",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@cssdayconf"
+  },
+  {
+    "name": "Smashing Conference",
+    "url": "https://smashingconf.com/toronto-2019/",
+    "startDate": "2019-06-25",
+    "endDate": "2019-06-26",
+    "city": "Toronto",
+    "country": "Canada",
+    "twitter": "@smashingconf"
+  },
+  {
+    "name": "CSSCamp Barcelona",
+    "url": "https://csscamp.tech",
+    "startDate": "2019-07-17",
+    "endDate": "2019-07-17",
+    "city": "Barcelona",
+    "country": "Spain",
+    "twitter": "@csscamp"
+  },
+  {
+    "name": "Smashing Conference",
+    "url": "https://smashingconf.com/freiburg-2019/",
+    "startDate": "2019-09-09",
+    "endDate": "2019-09-10",
+    "city": "Freiburg",
+    "country": "Germany",
+    "twitter": "@smashingconf"
+  },
+  {
+    "name": "dotCSS",
+    "url": "https://2019.dotcss.io",
+    "startDate": "2019-12-04",
+    "city": "Paris",
+    "country": "France",
+    "twitter": "@dotCSS",
+    "affiliateText": "10% off with promocode: CONFSTECH",
+    "affiliateUrl": "https://2019.dotcss.io/tickets?promocode=CONFSTECH"
+  }
+]

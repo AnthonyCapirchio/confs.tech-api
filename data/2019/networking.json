@@ -1,0 +1,427 @@
+[
+  {
+    "name": "WE Local Baltimore",
+    "url": "https://welocal.swe.org/baltimore/location",
+    "startDate": "2019-02-08",
+    "endDate": "2019-02-09",
+    "city": "Baltimore, MD",
+    "country": "U.S.A."
+  },
+  {
+    "name": "WE Local Tampa",
+    "url": "https://welocal.swe.org/tampa/location",
+    "startDate": "2019-02-15",
+    "endDate": "2019-02-16",
+    "city": "Tampa, FL",
+    "country": "U.S.A."
+  },
+  {
+    "name": "AWS Community Day Nordics",
+    "url": "https://awscommunitynordics.org/communityday",
+    "startDate": "2019-02-19",
+    "endDate": "2019-02-19",
+    "city": "Copenhagen",
+    "country": "Denmark"
+  },
+  {
+    "name": "WE Local St. Louis",
+    "url": "https://welocal.swe.org/st-louis/location",
+    "startDate": "2019-03-01",
+    "endDate": "2019-03-02",
+    "city": "St. Louis, MO",
+    "country": "U.S.A."
+  },
+  {
+    "name": "WE Local Denver",
+    "url": "https://welocal.swe.org/denver/location",
+    "startDate": "2019-03-15",
+    "endDate": "2019-03-16",
+    "city": "Denver, CO",
+    "country": "U.S.A."
+  },
+  {
+    "name": "WE Local Bellevue",
+    "url": "https://welocal.swe.org/bellevue/location",
+    "startDate": "2019-04-05",
+    "endDate": "2019-04-06",
+    "city": "Bellevue, WA",
+    "country": "U.S.A."
+  },
+  {
+    "name": "foss-north",
+    "url": "https://foss-north.se",
+    "startDate": "2019-04-07",
+    "endDate": "2019-04-10",
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "cfpUrl": "https://foss-north.se/2019/contribute.html#papers",
+    "cfpEndDate": "2019-02-24"
+  },
+  {
+    "name": "WE Local India",
+    "url": "https://welocal.swe.org/bengaluru/location",
+    "startDate": "2019-04-11",
+    "endDate": "2019-04-13",
+    "city": "Bengaluru",
+    "country": "India"
+  },
+  {
+    "name": "Business of Software Conference Europe",
+    "url": "https://businessofsoftware.eu",
+    "startDate": "2019-04-11",
+    "endDate": "2019-04-12",
+    "city": "Cambridge",
+    "country": "U.K.",
+    "twitter": "@BoSConference",
+    "cfpUrl": "https://businessofsoftware.eu",
+    "cfpEndDate": "2019-02-22"
+  },
+  {
+    "name": "MVP Conference LATAM",
+    "url": "https://mvpconf.com.br",
+    "startDate": "2019-04-12",
+    "endDate": "2019-04-13",
+    "city": "São Paulo",
+    "country": "Brazil",
+    "twitter": "@MVPConference"
+  },
+  {
+    "name": "Women Transforming Technology Conference (WT²)",
+    "url": "http://www.womentransformingtechnology.com",
+    "startDate": "2019-04-23",
+    "endDate": "2019-04-23",
+    "city": "Palo Alto, CA",
+    "country": "U.S.A.",
+    "twitter": "@WomenTransform2",
+    "cfpUrl": "http://www.womentransformingtechnology.com/2019-call-for-participation.html"
+  },
+  {
+    "name": "WE Local Europe",
+    "url": "https://welocal.swe.org/berlin/location",
+    "startDate": "2019-05-15",
+    "endDate": "2019-05-17",
+    "city": "Berlin",
+    "country": "Germany",
+    "cfpUrl": "https://welocal.swe.org/about/become-a-speaker/"
+  },
+  {
+    "name": "IEEE Women In Engineering International Leadership Conference",
+    "url": "http://ieee-wie-ilc.org",
+    "startDate": "2019-05-23",
+    "endDate": "2019-05-24",
+    "city": "Austin, TX",
+    "country": "U.S.A.",
+    "twitter": "@wieilc",
+    "cfpUrl": "http://ieee-wie-ilc.org/call-for-speakers/"
+  },
+  {
+    "name": "Best of Web",
+    "url": "http://bestofweb.paris",
+    "startDate": "2019-06-06",
+    "endDate": "2019-06-07",
+    "city": "Paris",
+    "country": "France",
+    "twitter": "@bestofwebconf",
+    "cfpUrl": "https://checkout.eventlama.com/#/events/best-of-web-2019/cfp",
+    "cfpEndDate": "2019-03-17"
+  },
+  {
+    "name": "TuxCon",
+    "url": "http://tuxcon.mobi",
+    "startDate": "2019-06-08",
+    "endDate": "2019-06-09",
+    "city": "Plovdiv",
+    "country": "Bulgaria",
+    "twitter": "@TuxConMobi",
+    "cfpUrl": "http://tuxcon.mobi"
+  },
+  {
+    "name": "Agile Venture Vimercate",
+    "url": "https://www.agileday.it/venture/2019/vimercate",
+    "startDate": "2019-06-08",
+    "endDate": "2019-06-08",
+    "city": "Vimercate",
+    "country": "Italy",
+    "twitter": "@agileday"
+  },
+  {
+    "name": "Embedded DevCon",
+    "url": "http://embeddeddevconindia.com",
+    "startDate": "2019-06-10",
+    "endDate": "2019-06-11",
+    "city": "Bengaluru",
+    "country": "India"
+  },
+  {
+    "name": "TECHSPO Los Angeles",
+    "url": "https://techspola.com",
+    "startDate": "2019-06-12",
+    "endDate": "2019-06-13",
+    "city": "Los Angeles",
+    "country": "U.S.A."
+  },
+  {
+    "name": "DevBreak",
+    "url": "https://www.devbreak.io",
+    "startDate": "2019-06-13",
+    "endDate": "2019-06-14",
+    "city": "Paris (Chateau du Vivier)",
+    "country": "France",
+    "twitter": "@DevBreak19"
+  },
+  {
+    "name": "Embedded DevCon",
+    "url": "http://embeddeddevconindia.com",
+    "startDate": "2019-06-13",
+    "endDate": "2019-06-14",
+    "city": "Pune",
+    "country": "India"
+  },
+  {
+    "name": "Agile Coach Camp",
+    "url": "https://accitaly.wordpress.com",
+    "startDate": "2019-06-13",
+    "endDate": "2019-06-15",
+    "city": "Cavalese",
+    "country": "Italy"
+  },
+  {
+    "name": "Reversim Summit",
+    "url": "https://summit2019.reversim.com",
+    "startDate": "2019-06-16",
+    "endDate": "2019-06-17",
+    "city": "Tel Aviv",
+    "country": "Israel",
+    "cfpUrl": "https://summit2019.reversim.com/cfp",
+    "cfpEndDate": "2019-02-28"
+  },
+  {
+    "name": "Git Commit Sutta",
+    "url": "http://gitcommit.show",
+    "startDate": "2019-06-22",
+    "endDate": "2019-06-23",
+    "city": "Online",
+    "country": "Online",
+    "twitter": "@Invide_Labs",
+    "cfpUrl": "http://gitcommit.show",
+    "cfpEndDate": "2019-05-12"
+  },
+  {
+    "name": "Running Remote Conference",
+    "url": "https://runningremote.com",
+    "startDate": "2019-06-29",
+    "endDate": "2019-06-30",
+    "city": "Bali",
+    "country": "Indonesia",
+    "twitter": "@RunningRemote"
+  },
+  {
+    "name": "Entrepreneurs Cruise",
+    "url": "https://entrepreneurscruise.com",
+    "startDate": "2019-07-07",
+    "endDate": "2019-07-14",
+    "city": "Cape Canaveral",
+    "country": "U.S.A.",
+    "twitter": "@EntrepreneursCruise"
+  },
+  {
+    "name": "Tech Cruise",
+    "url": "https://techcruise.co",
+    "startDate": "2019-07-07",
+    "endDate": "2019-07-14",
+    "city": "Cape Canaveral",
+    "country": "U.S.A."
+  },
+  {
+    "name": "African Women in Media  Conference & Festival",
+    "url": "https://awim19.africanwomeninmedia.com/",
+    "startDate": "2019-07-11",
+    "endDate": "2019-07-13",
+    "city": "Nairobi",
+    "country": "Kenya",
+    "twitter": "@realawim",
+    "cfpUrl": "http://africanwomeninmedia.com/cfp-awim19/",
+    "cfpEndDate": "2019-01-28"
+  },
+  {
+    "name": "Cloud Native Summit",
+    "url": "https://www.cloudnativesummit.co",
+    "startDate": "2019-08-05",
+    "endDate": "2019-08-06",
+    "city": "Wellington",
+    "country": "New Zealand",
+    "twitter": "@cloudnativego"
+  },
+  {
+    "name": "The Conference",
+    "url": "http://2019.theconference.se",
+    "startDate": "2019-08-27",
+    "endDate": "2019-08-28",
+    "city": "Malmö",
+    "country": "Sweden",
+    "twitter": "@theconfmalmo"
+  },
+  {
+    "name": "Women Who Code Connect Asia",
+    "url": "https://wwcodeconnectasia.github.io",
+    "startDate": "2019-08-31",
+    "endDate": "2019-08-31",
+    "city": "Singapore",
+    "country": "Singapore",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdVCHXjhYQbtV1lrM9vW1fDyBUrxiGccwS6bNefcMipOoM7MQ/viewform",
+    "cfpEndDate": "2019-06-15"
+  },
+  {
+    "name": "TECHSPO London",
+    "url": "https://techspolondon.co.uk",
+    "startDate": "2019-09-04",
+    "endDate": "2019-09-05",
+    "city": "London",
+    "country": "U.K."
+  },
+  {
+    "name": "Product Owners Camp",
+    "url": "http://www.pocamp.it",
+    "startDate": "2019-09-06",
+    "endDate": "2019-09-08",
+    "city": "Castelraimondo",
+    "country": "Italy"
+  },
+  {
+    "name": "Business of Software Conference USA",
+    "url": "https://businessofsoftware.org",
+    "startDate": "2019-09-16",
+    "endDate": "2019-09-18",
+    "city": "Boston MA",
+    "country": "U.S.A.",
+    "twitter": "@BoSConferece",
+    "cfpUrl": "https://businessofsoftware.org",
+    "cfpEndDate": "2019-06-21"
+  },
+  {
+    "name": "IEEE International Conference on Image Processing (ICIP)",
+    "url": "http://2019.ieeeicip.org/index.php",
+    "startDate": "2019-09-22",
+    "endDate": "2019-09-25",
+    "city": "Taipei",
+    "country": "Taiwan "
+  },
+  {
+    "name": "IT Arena",
+    "url": "https://itarena.ua",
+    "startDate": "2019-09-27",
+    "endDate": "2019-09-29",
+    "city": "Lviv",
+    "country": "Ukraine",
+    "twitter": "@LvivITArena"
+  },
+  {
+    "name": "DevFest Toulouse",
+    "url": "https://devfesttoulouse.fr",
+    "startDate": "2019-10-03",
+    "endDate": "2019-10-03",
+    "city": "Toulouse",
+    "country": "France",
+    "twitter": "@DevFestToulouse"
+  },
+  {
+    "name": "ATAG",
+    "url": "http://atag.accessible-media.at",
+    "startDate": "2019-10-10",
+    "endDate": "2019-10-10",
+    "city": "Vienna",
+    "country": "Austria"
+  },
+  {
+    "name": "HackConf",
+    "url": "https://www.hackconf.bg/en",
+    "startDate": "2019-10-11",
+    "endDate": "2019-10-13",
+    "city": "Sofia ",
+    "country": "Bulgaria ",
+    "twitter": "@@HackConf_",
+    "cfpUrl": "http://bit.ly/HackConf2019_CFS",
+    "cfpEndDate": "2019-04-30"
+  },
+  {
+    "name": "Startup Istanbul",
+    "url": "http://Startupistanbul.com",
+    "startDate": "2019-10-18",
+    "endDate": "2019-10-21",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "twitter": "@startupistanbul",
+    "cfpUrl": "http://startupistanbul.com",
+    "cfpEndDate": "2019-09-30"
+  },
+  {
+    "name": "WordCamp Panama City",
+    "url": "https://2019.panamacity.wordcamp.org",
+    "startDate": "2019-10-19",
+    "endDate": "2019-10-20",
+    "city": "Panama",
+    "country": "Panama",
+    "twitter": "@WordcampPanama"
+  },
+  {
+    "name": "IntelliTalks",
+    "url": "https://www.intellias.com/intellitalks-surviving-the-world-of-digital-transformation",
+    "startDate": "2019-10-25",
+    "endDate": "2019-10-25",
+    "city": "Munich",
+    "country": "Germany"
+  },
+  {
+    "name": "WE19",
+    "url": "https://societyofwomenengineers.swe.org",
+    "startDate": "2019-11-07",
+    "endDate": "2019-11-09",
+    "city": "Anaheim, CA",
+    "country": "U.S.A.",
+    "twitter": "@SWEtalk"
+  },
+  {
+    "name": "Open Source Camp",
+    "url": "https://opensourcecamp.de",
+    "startDate": "2019-11-07",
+    "endDate": "2019-11-07",
+    "city": "Nürnberg",
+    "country": "Deutschland"
+  },
+  {
+    "name": "Italian Agile Days",
+    "url": "https://www.agileday.it/front",
+    "startDate": "2019-11-08",
+    "endDate": "2019-11-09",
+    "city": "Modena",
+    "country": "Italy",
+    "twitter": "@agileday"
+  },
+  {
+    "name": "EuroSTAR Software Testing Conference",
+    "url": "http://bit.ly/2ONmMKB",
+    "startDate": "2019-11-11",
+    "endDate": "2019-11-14",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "twitter": "@esconfs"
+  },
+  {
+    "name": "GOTO",
+    "url": "https://gotocph.com/2019",
+    "startDate": "2019-11-18",
+    "endDate": "2019-11-22",
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "twitter": "@gotocph"
+  },
+  {
+    "name": "600Minutes Executive IT",
+    "url": "http://bit.ly/2WuAs0X",
+    "startDate": "2019-12-05",
+    "endDate": "2019-12-05",
+    "city": "Fornebu",
+    "country": "Norway",
+    "twitter": "@ManagementEv"
+  }
+]

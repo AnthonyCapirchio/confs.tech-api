@@ -1,0 +1,20 @@
+[
+  {
+    "name": "ScalaUA",
+    "url": "https://www.scalaua.com",
+    "startDate": "2019-03-29",
+    "endDate": "2019-03-30",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "twitter": "@ScalaUA_Conf"
+  },
+  {
+    "name": "Scala Days",
+    "url": "https://scaladays.org",
+    "startDate": "2019-06-11",
+    "endDate": "2019-06-13",
+    "city": "Lausanne",
+    "country": "Switzerland",
+    "twitter": "@scaladays"
+  }
+]

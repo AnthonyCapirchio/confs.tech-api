@@ -1,0 +1,174 @@
+[
+  {
+    "name": "Gophercon India",
+    "url": "https://gopherconindia.com",
+    "startDate": "2019-01-18",
+    "endDate": "2019-01-19",
+    "city": "Goa",
+    "country": "India",
+    "twitter": "@GopherConIndia",
+    "cfpUrl": "https://gopherconindia.com/call-for-proposal/",
+    "cfpEndDate": "2018-11-30"
+  },
+  {
+    "name": "GoDays Berlin ",
+    "url": "https://www.godays.io",
+    "startDate": "2019-01-29",
+    "endDate": "2019-01-30",
+    "city": "Berlin ",
+    "country": "Germany",
+    "twitter": "@godaysio",
+    "cfpUrl": "https://talks.godays.io/godays19/",
+    "cfpEndDate": "2018-10-07"
+  },
+  {
+    "name": "dotGo",
+    "url": "https://2019.dotgo.eu",
+    "startDate": "2019-03-25",
+    "endDate": "2019-03-25",
+    "city": "Paris",
+    "country": "France",
+    "twitter": "@dotGoEu",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfJjXZDjdvJKTKUz_HedK9oJt_sh9MN57GIm_7H0MfDnd4wOA/viewform?c=0&w=1",
+    "cfpEndDate": "2019-01-01"
+  },
+  {
+    "name": "dotGo",
+    "url": "https://www.dotgo.eu",
+    "startDate": "2019-03-25",
+    "endDate": "2019-03-25",
+    "city": "Paris",
+    "country": "France",
+    "twitter": "@dotConferences"
+  },
+  {
+    "name": "Codefest",
+    "url": "https://2019.codefest.ru/speakers/en",
+    "startDate": "2019-03-30",
+    "endDate": "2019-03-31",
+    "city": "Novosibirsk",
+    "country": "Russia",
+    "twitter": "@CodeFestRu",
+    "cfpUrl": "https://2019.codefest.ru/speakers/en/call-for-papers/",
+    "cfpEndDate": "2019-03-01"
+  },
+  {
+    "name": "GothamGo",
+    "url": "http://gothamgo.com",
+    "startDate": "2019-04-12",
+    "endDate": "2019-04-12",
+    "city": "New York City",
+    "country": "U.S.A.",
+    "twitter": "@gothamgo",
+    "cfpUrl": "https://www.papercall.io/gothamgo2019",
+    "cfpEndDate": "2019-01-18"
+  },
+  {
+    "name": "VeChain Summit",
+    "url": "https://summit.vechain.com",
+    "startDate": "2019-04-18",
+    "endDate": "2019-04-18",
+    "city": "San Francisco",
+    "country": "U.S.A.",
+    "twitter": "@vechainofficial"
+  },
+  {
+    "name": "GopherCon Singapore",
+    "url": "https://2019.gophercon.sg",
+    "startDate": "2019-04-29",
+    "endDate": "2019-05-03",
+    "city": "Singapore",
+    "country": "Singapore",
+    "twitter": "@gopherconsg",
+    "cfpUrl": "https://www.papercall.io/gopherconsg2019",
+    "cfpEndDate": "2019-02-07"
+  },
+  {
+    "name": "GopherCon Europe",
+    "url": "http://www.gophercon.es",
+    "startDate": "2019-05-30",
+    "endDate": "2019-06-01",
+    "city": "Tenerife",
+    "country": "Spain",
+    "twitter": "@gopherconeu",
+    "cfpUrl": "https://www.papercall.io/gophercon-eu-2019",
+    "cfpEndDate": "2019-03-06"
+  },
+  {
+    "name": "GoCon Canada",
+    "url": "https://gocon.ca",
+    "startDate": "2019-05-31",
+    "endDate": "2019-05-31",
+    "city": "Toronto",
+    "country": "Canada",
+    "twitter": "@GoConCanada",
+    "cfpUrl": "https://papercall.io/goconca",
+    "cfpEndDate": "2019-03-18"
+  },
+  {
+    "name": "GopherCon",
+    "url": "https://gophercon.com",
+    "startDate": "2019-07-24",
+    "endDate": "2019-07-27",
+    "city": "San Diego, CA",
+    "country": "U.S.A.",
+    "twitter": "@gophercon",
+    "cfpUrl": "https://www.papercall.io/gophercon-2019",
+    "cfpEndDate": "2019-01-31"
+  },
+  {
+    "name": "GopherCon UK",
+    "url": "https://www.gophercon.co.uk",
+    "startDate": "2019-08-21",
+    "endDate": "2019-08-23",
+    "city": "London",
+    "country": "U.K."
+  },
+  {
+    "name": "GopherCon",
+    "url": "http://2019.gopherconbr.org",
+    "startDate": "2019-09-27",
+    "endDate": "2019-09-28",
+    "city": "Florianópolis, SC",
+    "country": "Brasil ",
+    "twitter": "@gopherconbrasil"
+  },
+  {
+    "name": "GoLab",
+    "url": "https://www.golab.io",
+    "startDate": "2019-10-20",
+    "endDate": "2019-10-22",
+    "city": "Florence",
+    "country": "Italy"
+  },
+  {
+    "name": "GopherCon Au",
+    "url": "http://gophercon.com.au",
+    "startDate": "2019-10-30",
+    "endDate": "2019-11-01",
+    "city": "Sydney",
+    "country": "Australia",
+    "twitter": "@gopherconaunz"
+  },
+  {
+    "name": "Golang Piter",
+    "url": "https://golangpiter.com/en",
+    "startDate": "2019-11-01",
+    "endDate": "2019-11-01",
+    "city": "St.Petersburg",
+    "country": "Russia",
+    "cfpUrl": "https://golangpiter.com/en/speaker#form",
+    "cfpEndDate": "2019-10-13"
+  },
+  {
+    "name": "Gopherpalooza",
+    "url": "http://gopherpalooza.com",
+    "startDate": "2019-11-08",
+    "endDate": "2019-11-08",
+    "city": "Mountain View, CA",
+    "country": "U.S.A.",
+    "twitter": "@gopherpalooza",
+    "cfpUrl": "https://www.papercall.io/gopherpalooza2019",
+    "cfpEndDate": "2019-08-17"
+  }
+]

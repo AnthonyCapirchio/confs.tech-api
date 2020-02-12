@@ -1,0 +1,622 @@
+[
+  {
+    "name": "GitLab Commit San Francisco",
+    "url": "https://about.gitlab.com/events/commit",
+    "startDate": "2020-01-14",
+    "endDate": "2020-01-14",
+    "city": "San Francisco",
+    "country": "U.S.A.",
+    "twitter": "@gitlab",
+    "cfpUrl": "https://docs.google.com/forms/d/1Hw3Do74kUO3I9TuQKakg0lpvI2VhfPhFY2EEGucLm2o/viewform?edit_requested=true",
+    "cfpEndDate": "2019-10-21"
+  },
+  {
+    "name": "Azure Lowlands",
+    "url": "https://www.azurelowlands.com",
+    "startDate": "2020-01-24",
+    "endDate": "2020-01-24",
+    "city": "Rotterdam",
+    "country": "Netherlands",
+    "twitter": "@AzureLowlands"
+  },
+  {
+    "name": "devopsdays Vitoria",
+    "url": "https://devopsdays.org/events/2020-vitoria/welcome/",
+    "startDate": "2020-02-08",
+    "endDate": "2020-02-08",
+    "city": "Vitoria",
+    "country": "Brazil",
+    "twitter": "@devopsdaysvix"
+  },
+  {
+    "name": "devopsdays Guadalajara",
+    "url": "https://devopsdays.org/events/2020-guadalajara",
+    "startDate": "2020-02-20",
+    "endDate": "2020-02-21",
+    "city": "Guadalajara",
+    "country": "Mexico"
+  },
+  {
+    "name": "devopsdays Madrid",
+    "url": "https://devopsdays.org/events/2020-madrid/welcome/",
+    "startDate": "2020-02-21",
+    "endDate": "2020-02-21",
+    "city": "Madrid",
+    "country": "Spain",
+    "twitter": "@DevOpsDaysMad"
+  },
+  {
+    "name": "devopsdays Geneva",
+    "url": "https://devopsdays.org/events/2020-geneva/welcome/",
+    "startDate": "2020-02-24",
+    "endDate": "2020-02-25",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "twitter": "@DevopsdaysGe"
+  },
+  {
+    "name": "devopsdays Charlotte",
+    "url": "https://devopsdays.org/events/2020-charlotte/welcome/",
+    "startDate": "2020-02-27",
+    "endDate": "2020-02-28",
+    "city": "Charlotte",
+    "country": "U.S.A.",
+    "twitter": "@devopsdays_clt"
+  },
+  {
+    "name": "devopsdays Cáceres",
+    "url": "https://devopsdays.org/events/2020-caceres/welcome/",
+    "startDate": "2020-03-05",
+    "endDate": "2020-03-06",
+    "city": "Cáceres",
+    "country": "U.S.A.",
+    "twitter": "@DevOpsDaysCC"
+  },
+  {
+    "name": "SCALE",
+    "url": "https://www.socallinuxexpo.org",
+    "startDate": "2020-03-05",
+    "endDate": "2020-03-08",
+    "city": "Pasadena",
+    "country": "U.S.A.",
+    "twitter": "@socallinuxexpo",
+    "cfpUrl": "https://socallinuxexpo.org/scale/18x/cfp",
+    "cfpEndDate": "2019-12-01"
+  },
+  {
+    "name": "Devopsdays Los Angeles",
+    "url": "https://devopsdays.org/events/2020-los-angeles/welcome",
+    "startDate": "2020-03-06",
+    "endDate": "2020-03-06",
+    "city": "Pasadena",
+    "country": "U.S.A.",
+    "twitter": "@devopsdaylax",
+    "cfpUrl": "https://devopsdays.org/events/2020-los-angeles/welcome",
+    "cfpEndDate": "2019-12-01"
+  },
+  {
+    "name": "DevOps Gathering",
+    "url": "https://devops-gathering.io",
+    "startDate": "2020-03-09",
+    "endDate": "2020-03-11",
+    "city": "Bochum",
+    "country": "Germany",
+    "twitter": "@DevOpsGathering",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdOmCTRBBD-thoP8e69mkjSR9xGg81VmHQe2aWvQIcccg3-4Q/viewform",
+    "cfpEndDate": "2020-01-18"
+  },
+  {
+    "name": "devopsdays Prague",
+    "url": "https://devopsdays.org/events/2020-prague/welcome/",
+    "startDate": "2020-03-18",
+    "endDate": "2020-03-19",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "twitter": "@DevOpsDaysPrg"
+  },
+  {
+    "name": "DevOps Fusion",
+    "url": "https://www.devops-fusion.com",
+    "startDate": "2020-03-18",
+    "endDate": "2020-03-18",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "twitter": "@DevOpsFusion"
+  },
+  {
+    "name": "DevOps Talks Conference",
+    "url": "https://devops.talksplus.com/au/devops.html",
+    "startDate": "2020-03-19",
+    "endDate": "2020-03-20",
+    "city": "Melbourne",
+    "country": "Australia",
+    "twitter": "@DOTC2020",
+    "cfpUrl": "https://devops.talksplus.com/submit_talk.html",
+    "cfpEndDate": "2020-02-14"
+  },
+  {
+    "name": "fin:CODE",
+    "url": "https://www.fintech-code.com",
+    "startDate": "2020-03-19",
+    "endDate": "2020-03-20",
+    "city": "Frankfurt",
+    "country": "Germany",
+    "twitter": "@weCONECT"
+  },
+  {
+    "name": "CloudConf",
+    "url": "https://2020.cloudconf.it/en/index.html",
+    "startDate": "2020-03-19",
+    "endDate": "2020-03-19",
+    "city": "Turin",
+    "country": "Italy",
+    "twitter": "@_CloudConf_"
+  },
+  {
+    "name": "DevOps Fest",
+    "url": "https://devopsfest.com.ua",
+    "startDate": "2020-03-20",
+    "endDate": "2020-03-21",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "cfpUrl": "https://devopsfest.com.ua"
+  },
+  {
+    "name": "DevOpsCon Singapore",
+    "url": "https://devopscon.io/singapore",
+    "startDate": "2020-03-23",
+    "endDate": "2020-03-26",
+    "city": "Singapore",
+    "country": "Singapore",
+    "twitter": "@devops_con",
+    "cfpUrl": "https://callforpapers.sandsmedia.com",
+    "cfpEndDate": "2019-10-17"
+  },
+  {
+    "name": "DevOps Talks Conference",
+    "url": "https://devops.talksplus.com/nz/devops.html",
+    "startDate": "2020-03-24",
+    "endDate": "2020-03-25",
+    "city": "Auckland",
+    "country": "New Zealand",
+    "twitter": "@DOTC20",
+    "cfpUrl": "https://devops.talksplus.com/submit_talk.html",
+    "cfpEndDate": "2020-02-14"
+  },
+  {
+    "name": "DevOps Pro Europe",
+    "url": "https://devopspro.lt",
+    "startDate": "2020-03-24",
+    "endDate": "2020-03-26",
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe4uV1gs57YTpHS2AdIV-PZ6aBISGRDOZsJF2OiUCH5MXalDQ/viewform"
+  },
+  {
+    "name": "Cloud_Native Rejekts",
+    "url": "https://cloud-native.rejekts.io/",
+    "startDate": "2020-03-28",
+    "endDate": "2020-03-29",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@rejektsio",
+    "cfpUrl": "https://cloud-native.rejekts.io/#participation",
+    "cfpEndDate": "2020-02-03"
+  },
+  {
+    "name": "KubeCon + CloudNativeCon Europe",
+    "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe",
+    "startDate": "2020-03-30",
+    "endDate": "2020-04-02",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@KubeCon_"
+  },
+  {
+    "name": "Global DevOps Summit",
+    "url": "https://www.clavent.com/global-devops-summit-bangalore",
+    "startDate": "2020-04-02",
+    "endDate": "2020-04-03",
+    "city": "Bangalore",
+    "country": "India",
+    "twitter": "@ClaventEvents",
+    "cfpUrl": "https://www.clavent.com/global-devops-summit-bangalore",
+    "cfpEndDate": "2020-02-10"
+  },
+  {
+    "name": "HashiDays Sydney",
+    "url": "https://hashidays.com",
+    "startDate": "2020-04-06",
+    "endDate": "2020-04-07",
+    "city": "Sydney",
+    "country": "Australia",
+    "twitter": "@hashiconf"
+  },
+  {
+    "name": "devopsdays Tokyo",
+    "url": "https://devopsdays.org/events/2020-tokyo/welcome/",
+    "startDate": "2020-04-09",
+    "endDate": "2020-04-10",
+    "city": "Tokyo",
+    "country": "Japan"
+  },
+  {
+    "name": "devopsdays Houston",
+    "url": "https://devopsdays.org/events/2020-houston/welcome/",
+    "startDate": "2020-04-14",
+    "endDate": "2020-04-15",
+    "city": "Houston",
+    "country": "U.S.A.",
+    "twitter": "@DevOpsDaysHTown"
+  },
+  {
+    "name": "devopsdays Seattle",
+    "url": "https://devopsdays.org/events/2020-seattle/welcome/",
+    "startDate": "2020-04-14",
+    "endDate": "2020-04-15",
+    "city": "Seattle",
+    "country": "U.S.A."
+  },
+  {
+    "name": "DevOpsDays Toronto",
+    "url": "https://devopsdays.org/events/2020-toronto/welcome",
+    "startDate": "2020-04-16",
+    "endDate": "2020-04-17",
+    "city": "Toronto ",
+    "country": "Canada",
+    "twitter": "@DevOpsDaysTO ",
+    "cfpUrl": "https://www.papercall.io/dodto2020",
+    "cfpEndDate": "2020-01-31"
+  },
+  {
+    "name": "DevOpsDays Toronto",
+    "url": "https://devopsdays.org/events/2020-toronto/welcome",
+    "startDate": "2020-04-16",
+    "endDate": "2020-04-17",
+    "city": "Toronto",
+    "country": "Canada",
+    "twitter": "@DevOpsDaysTO",
+    "cfpUrl": "https://www.papercall.io/dodto2020",
+    "cfpEndDate": "2020-01-31"
+  },
+  {
+    "name": "devopsdays Atlanta",
+    "url": "https://devopsdays.org/events/2020-atlanta/welcome/",
+    "startDate": "2020-04-21",
+    "endDate": "2020-04-22",
+    "city": "Atlanta",
+    "country": "U.S.A."
+  },
+  {
+    "name": "DevOpsCon London",
+    "url": "https://devopscon.io/london",
+    "startDate": "2020-04-21",
+    "endDate": "2020-04-24",
+    "city": "London",
+    "country": "U.K.",
+    "cfpUrl": "https://callforpapers.sandsmedia.com",
+    "cfpEndDate": "2019-11-04"
+  },
+  {
+    "name": "devopsdays Denver",
+    "url": "https://devopsdays.org/events/2020-denver/welcome/",
+    "startDate": "2020-04-26",
+    "endDate": "2020-04-26",
+    "city": "Denver",
+    "country": "U.S.A."
+  },
+  {
+    "name": "CloudNein",
+    "url": "https://cloudne.in",
+    "startDate": "2020-04-27",
+    "endDate": "2020-04-28",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@cloudnein_conf",
+    "cfpUrl": "https://www.papercall.io/cloud-nein-2020",
+    "cfpEndDate": "2020-01-12"
+  },
+  {
+    "name": "devops.barcelona",
+    "url": "https://devops.barcelona",
+    "startDate": "2020-05-05",
+    "endDate": "2020-05-06",
+    "city": "Barcelona",
+    "country": "Spain"
+  },
+  {
+    "name": "ServerlessDays Amsterdam",
+    "url": "https://serverlessdays.nl",
+    "startDate": "2020-05-08",
+    "endDate": "2020-05-08",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@serverlessdams",
+    "cfpUrl": "https://sessionize.com/serverlessdays-amsterdam-2020/",
+    "cfpEndDate": "2020-02-23"
+  },
+  {
+    "name": "Accelerate",
+    "url": "https://www.datastax.com/accelerate",
+    "startDate": "2020-05-11",
+    "endDate": "2020-05-13",
+    "city": "San Diego",
+    "country": "U.S.A.",
+    "twitter": "@DataStax",
+    "cfpUrl": "https://sessionize.com/datastax-accelerate-san-diego",
+    "cfpEndDate": "2020-01-22"
+  },
+  {
+    "name": "Continuous Lifecycle",
+    "url": "https://continuouslifecycle.london",
+    "startDate": "2020-05-13",
+    "endDate": "2020-05-15",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@ConLifecycleLon"
+  },
+  {
+    "name": "devopsdays Des Moines",
+    "url": "https://devopsdays.org/events/2020-des-moines/welcome/",
+    "startDate": "2020-05-14",
+    "endDate": "2020-05-15",
+    "city": "Des Moines",
+    "country": "U.S.A.",
+    "twitter": "@DevOpsDaysDSM"
+  },
+  {
+    "name": "devopsdays Boise",
+    "url": "https://devopsdays.org/events/2020-boise/welcome/",
+    "startDate": "2020-05-15",
+    "endDate": "2020-05-15",
+    "city": "Boise",
+    "country": "U.S.A."
+  },
+  {
+    "name": "DevOpsDays Kyiv",
+    "url": "https://devopsdays.com.ua",
+    "startDate": "2020-05-15",
+    "endDate": "2020-05-16",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "twitter": "@days_dev",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdxQ6wbMesh-ZGeLB4EKd8fFonLE54l01z7Rt5-FtvMTV15MA/viewform",
+    "cfpEndDate": "2019-03-01"
+  },
+  {
+    "name": "DevOpsDays Poznań",
+    "url": "https://devopsdays.org/events/2020-poznan/welcome",
+    "startDate": "2020-05-18",
+    "endDate": "2020-05-19",
+    "city": "Poznań",
+    "country": "Poland",
+    "twitter": "@devopsdayspoz",
+    "cfpUrl": "https://forms.gle/RrMwyU6Mg8ihzn9FA",
+    "cfpEndDate": "2020-01-31"
+  },
+  {
+    "name": "QED Quality in Enterprise Development",
+    "url": "https://qed.croz.net",
+    "startDate": "2020-05-24",
+    "endDate": "2020-05-26",
+    "city": "Split",
+    "country": "Croatia"
+  },
+  {
+    "name": "ChefConf Seattle",
+    "url": "https://chefconf.io",
+    "startDate": "2020-06-01",
+    "endDate": "2020-06-04",
+    "city": "Seattle",
+    "country": "U.S.A.",
+    "twitter": "@chef",
+    "cfpUrl": "https://chefconf.io/speak",
+    "cfpEndDate": "2020-01-31"
+  },
+  {
+    "name": "devopsdays Salt Lake City",
+    "url": "https://devopsdays.org/events/2020-salt-lake-city/welcome/",
+    "startDate": "2020-06-02",
+    "endDate": "2020-06-03",
+    "city": "Salt Lake City",
+    "country": "U.S.A.",
+    "twitter": "@devopsdaysslc"
+  },
+  {
+    "name": "Paris Container Day",
+    "url": "https://paris-container-day.fr/fr",
+    "startDate": "2020-06-02",
+    "endDate": "2020-06-02",
+    "city": "Paris",
+    "country": "France",
+    "twitter": "@ContainerDayFr",
+    "cfpUrl": "https://cfp.paris-container-day.fr",
+    "cfpEndDate": "2020-03-15"
+  },
+  {
+    "name": "HashiConf EU",
+    "url": "https://hashiconf.com/eu/",
+    "startDate": "2020-06-08",
+    "endDate": "2020-06-10",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@HashiConf",
+    "cfpUrl": "https://dev.to/amandaperino/cfp-the-search-for-hashiconf-eu-speakers-has-begun-7en",
+    "cfpEndDate": "2020-03-17"
+  },
+  {
+    "name": "devopsdays Zürich",
+    "url": "https://devopsdays.org/events/2020-zurich/welcome/",
+    "startDate": "2020-06-09",
+    "endDate": "2020-06-10",
+    "city": "Zürich",
+    "country": "Switzerland"
+  },
+  {
+    "name": "DevOpsCon Berlin",
+    "url": "https://devopscon.io/berlin",
+    "startDate": "2020-06-15",
+    "endDate": "2020-06-18",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@devops_con",
+    "cfpUrl": "https://callforpapers.sandsmedia.com",
+    "cfpEndDate": "2019-12-16"
+  },
+  {
+    "name": "O'Reilly Infrastructure & Ops Conference",
+    "url": "https://conferences.oreilly.com/infrastructure-ops/io-ca",
+    "startDate": "2020-06-15",
+    "endDate": "2020-06-18",
+    "city": "Santa Clara",
+    "country": "U.S.A.",
+    "twitter": "@OReillyInfraOps",
+    "cfpUrl": "https://conferences.oreilly.com/infrastructure-ops/io-ca/public/cfp/777?utm_medium=content+synd&utm_source=general+ad&utm_campaign=ioca20&utm_content=confs+tech+cfp",
+    "cfpEndDate": "2019-12-17"
+  },
+  {
+    "name": "ChefConf London",
+    "url": "https://chefconf.io",
+    "startDate": "2020-06-15",
+    "endDate": "2020-06-17",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@chef",
+    "cfpUrl": "https://chefconf.io/speak",
+    "cfpEndDate": "2020-01-31"
+  },
+  {
+    "name": "OSDC",
+    "url": "https://osdc.de",
+    "startDate": "2020-06-17",
+    "endDate": "2020-06-18",
+    "city": "Berlin",
+    "country": "Germany"
+  },
+  {
+    "name": "devopsdays Amsterdam",
+    "url": "https://devopsdays.org/events/2020-amsterdam/welcome/",
+    "startDate": "2020-06-17",
+    "endDate": "2020-06-19",
+    "city": "Amsterdam",
+    "country": "Netherlands"
+  },
+  {
+    "name": "stackconf",
+    "url": "https://stackconf.eu",
+    "startDate": "2020-06-17",
+    "endDate": "2020-06-18",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@netways",
+    "cfpUrl": "https://stackconf.eu/call-for-papers",
+    "cfpEndDate": "2020-02-15"
+  },
+  {
+    "name": "Lead Dev London",
+    "url": "https://wvnts.co/2RnjgtD",
+    "startDate": "2020-06-24",
+    "endDate": "2020-06-25",
+    "city": "London",
+    "country": "U.K.",
+    "twitter": "@TheLeadDev",
+    "cfpUrl": "https://wvnts.co/34U1UZo",
+    "cfpEndDate": "2020-01-13"
+  },
+  {
+    "name": "Cloud Native Summit",
+    "url": "https://www.cloudnativesummit.co",
+    "startDate": "2020-08-03",
+    "endDate": "2020-08-04",
+    "city": "Wellington",
+    "country": "New Zealand",
+    "twitter": "@cloudnativego",
+    "cfpUrl": "https://cfp.digitalks.io",
+    "cfpEndDate": "2020-03-31"
+  },
+  {
+    "name": "DevOps Talks Conference",
+    "url": "https://devops.talksplus.com/singapore/devops.html",
+    "startDate": "2020-08-18",
+    "endDate": "2020-08-19",
+    "city": "Singapore",
+    "country": "Singapore",
+    "twitter": "@DOTC20",
+    "cfpUrl": "https://devops.talksplus.com/submit_talk.html",
+    "cfpEndDate": "2020-06-26"
+  },
+  {
+    "name": "DevOps Talks Conference",
+    "url": "https://devops.talksplus.com/sydney/devops.html",
+    "startDate": "2020-08-24",
+    "endDate": "2020-08-25",
+    "city": "Sydney",
+    "country": "Australia",
+    "twitter": "@DOTC20",
+    "cfpUrl": "https://devops.talksplus.com/submit_talk.html",
+    "cfpEndDate": "2020-06-26"
+  },
+  {
+    "name": "devopsdays Columbus",
+    "url": "https://devopsdays.org/events/2020-columbus/welcome/",
+    "startDate": "2020-09-16",
+    "endDate": "2020-09-17",
+    "city": "Columbus",
+    "country": "U.S.A."
+  },
+  {
+    "name": "devopsdays Cairo",
+    "url": "https://devopsdays.org/events/2020-cairo/welcome/",
+    "startDate": "2020-09-20",
+    "endDate": "2020-09-20",
+    "city": "Cairo",
+    "country": "Egypt"
+  },
+  {
+    "name": "DevOpsCon New York",
+    "url": "https://devopscon.io/new-york",
+    "startDate": "2020-09-28",
+    "endDate": "2020-10-01",
+    "city": "New York",
+    "country": "U.S.A.",
+    "twitter": "@devops_con",
+    "cfpUrl": "https://callforpapers.sandsmedia.com"
+  },
+  {
+    "name": "Speaking About - Web & Mobile development",
+    "url": "http://speaking.aidicb.pt",
+    "startDate": "2020-10-03",
+    "endDate": "2020-10-03",
+    "city": "Castelo Branco",
+    "country": "Portugal"
+  },
+  {
+    "name": "HashiConf US",
+    "url": "https://hashiconf.com/us",
+    "startDate": "2020-10-13",
+    "endDate": "2020-10-15",
+    "city": "San Diego, CA",
+    "country": "U.S.A.",
+    "twitter": "@hashiconf",
+    "cfpUrl": "https://sessionize.com/hashiconf-us-2020",
+    "cfpEndDate": "2020-06-23"
+  },
+  {
+    "name": "DevOpsDays Berlin",
+    "url": "https://devopsdays.org/events/2020-berlin/welcome",
+    "startDate": "2020-10-28",
+    "endDate": "2020-10-29",
+    "city": "Berlin",
+    "country": "Germany"
+  },
+  {
+    "name": "O'Reilly Infrastructure & Ops Conference",
+    "url": "https://conferences.oreilly.com/infrastructure-ops/io-eu",
+    "startDate": "2020-11-16",
+    "endDate": "2020-11-19",
+    "city": "Berlin",
+    "country": "Germany",
+    "twitter": "@OReillyInfraOps",
+    "cfpEndDate": "2020-05-12"
+  }
+]
